@@ -466,9 +466,9 @@
                 <div class="col-12 col-lg-6 wow fadeInRight" data-wow-delay="200ms">
                     <div class="ve-about-text" style="padding-left:0; padding-right:50px;">
                         <div class="ve-about-img-1 bg-img"
-                            style="background-image:url({{ asset('assets/img/bg-img/14.jpg') }});"></div>
+                            style="background-image:url({{ asset('assets/img/about-us/premium-luxury-1.webp') }});"></div>
                         <div class="ve-about-img-2 bg-img"
-                            style="background-image:url({{ asset('assets/img/bg-img/5.jpg') }});"></div>
+                            style="background-image:url({{ asset('assets/img/about-us/Untitled-1.webp') }});"></div>
                     </div>
                 </div>
             </div>

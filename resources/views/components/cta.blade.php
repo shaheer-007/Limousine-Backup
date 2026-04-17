@@ -1,5 +1,5 @@
 <!-- ===== CTA BANNER ===== -->
-<section class="ve-cta-banner bg-img" style="background-image:url({{ asset('assets/img/bg-img/6.jpg') }});">
+<section class="ve-cta-banner bg-img" style="background-image:url({{ asset('assets/img/cta/cta.jpg') }});">
     <div class="ve-cta-overlay"></div>
     <div class="container ve-cta-content">
         <div class="row align-items-center">

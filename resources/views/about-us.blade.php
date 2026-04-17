@@ -22,7 +22,7 @@
                 <div class="col-12 col-lg-5 order-md-2 order-2 order-lg-0">
                     <div class="ve-whyus-img-wrap wow fadeInLeft" data-wow-delay="100ms">
                         <div class="ve-whyus-img-main bg-img"
-                            style="background-image:url({{ asset('assets/img/bg-img/5.jpg') }});"></div>
+                            style="background-image:url({{ asset('assets/img/about-us/excellence-in-luxury-1.webp') }});"></div>
                         <div class="ve-whyus-badge">
                             <strong>12+</strong>
                             <span>Years of Financial Excellence</span>
@@ -132,9 +132,9 @@
                 <div class="col-12 col-lg-6 wow fadeInLeft " data-wow-delay="100ms">
                     <div class="ve-about-text">
                         <div class="ve-about-img-1 bg-img"
-                            style="background-image:url({{ asset('assets/img/bg-img/14.jpg') }});"></div>
+                            style="background-image:url({{ asset('assets/img/about-us/excellence-in-luxury-1.webp') }});"></div>
                         <div class="ve-about-img-2 bg-img"
-                            style="background-image:url({{ asset('assets/img/bg-img/5.jpg') }});"></div>
+                            style="background-image:url({{ asset('assets/img/about-us/excellence-in-luxury-2.webp') }});"></div>
                     </div>
                 </div>
 
