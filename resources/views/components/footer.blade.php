@@ -1,0 +1,67 @@
+<!-- ===== FOOTER (dark, 4-column) ===== -->
+<footer class="ve-footer">
+    <div class="container">
+        <div class="row">
+            <!-- Col 1: Brand -->
+            <div class="col-12 col-sm-6 col-lg-4 mb-50">
+                <div class="ve-footer-brand">
+                    <a href="{{ route('home') }}" class="ve-footer-logo">
+                        <img src="{{ asset('assets/img/logo/logo-3.svg') }}" alt="logo">
+                    </a>
+                    <p>Premium limousine and luxury chauffeur services. Providing elegant, reliable, and safe
+                        transportation since 2012.</p>
+                    <div class="ve-social">
+                        <a href="#"><i class="fa fa-facebook"></i></a>
+                        <a href="#"><i class="fa fa-linkedin"></i></a>
+                        <a href="#"><i class="fa fa-instagram"></i></a>
+                    </div>
+                </div>
+            </div>
+            <!-- Col 2: Quick Links -->
+            <div class="col-12 col-sm-6 col-lg-2 mb-50">
+                <h5 class="ve-footer-title">Quick Links</h5>
+                <ul class="ve-footer-links">
+                    <li><a href="{{ route('home') }}">Home</a></li>
+                    <li><a href="{{ route('book-online') }}">Book Online</a></li>
+                    <li><a href="{{ route('about-us') }}">About us</a></li>
+                    <li><a href="#">Our Services</a></li>
+                    <li><a href="#">Our Fleet</a></li>
+                    <li><a href="#">Contact us</a></li>
+                </ul>
+            </div>
+            <!-- Col 3: Services -->
+            <div class="col-12 col-sm-6 col-lg-3 mb-50">
+                <h5 class="ve-footer-title">Our Services</h5>
+                <ul class="ve-footer-links">
+                    <li><a href="#">Airport Transfers</a></li>
+                    <li><a href="#">Corporate Travel</a></li>
+                    <li><a href="#">Wedding Limousine</a></li>
+                    <li><a href="#">Special Events</a></li>
+                    <li><a href="#">Fleet Gallery</a></li>
+                </ul>
+            </div>
+            <!-- Col 4: Contact -->
+            <div class="col-12 col-sm-6 col-lg-3 mb-50">
+                <h5 class="ve-footer-title">Get In Touch</h5>
+                <ul class="ve-footer-contact">
+                    <li><a href="https://www.google.com/maps/search/?api=1&query={{ urlencode(config('contact.location')) }}"
+                            target="_blank"><i class="fa fa-map-marker"></i> {{ config('contact.location') }}</a></li>
+                    <li><a href="tel:{{ config('contact.phone_tel') }}"><i class="fa fa-phone"></i>
+                            {{ config('contact.phone_display') }}</a></li>
+                    <li><a href="mailto:{{ config('contact.email') }}"><i class="fa fa-envelope"></i>
+                            {{ config('contact.email') }}</a></li>
+                    <li><i class="fa fa-clock-o"></i> 24/7</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+    <!-- Footer Bottom Bar -->
+    <div class="ve-footer-bottom">
+        <div class="container">
+            <div class="ve-footer-bottom-inner text-white text-center justify-content-center">
+                <p>A Limousine Website Designed By BM IT</p>
+            </div>
+        </div>
+    </div>
+</footer>
