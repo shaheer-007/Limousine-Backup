@@ -266,10 +266,10 @@
                             <p>Reliable and luxurious transportation to and from all major airports with professional
                                 chauffeurs.</p>
                             <div class="ve-services-btns mt-35" style="display: flex; gap: 10px; flex-wrap: wrap;">
-                                <a href="{{ route('book-online') }}" class="ve-btn-ghost-dark"
-                                    style="padding: 10px 18px; font-size: 13px;">Book Online</a>
-                                <a href="{{ 'tel:' . config('contact.phone_tel') }}" class="ve-btn-primary"
-                                    style="padding: 10px 18px; font-size: 13px; color: #fff;">Call Now</a>
+                                <a href="{{ route('book-online') }}" class="ve-btn-primary"
+                                    style="padding: 10px 18px; font-size: 13px; color: #fff;">Book Online</a>
+                                <a href="{{ route('services.airport-transportation') }}" class="ve-btn-ghost-dark"
+                                    style="padding: 10px 18px; font-size: 13px;">Read More</a>
 
                             </div>
                         </div>
@@ -288,8 +288,8 @@
                             <div class="ve-services-btns mt-35" style="display: flex; gap: 10px; flex-wrap: wrap;">
                                 <a href="{{ route('book-online') }}" class="ve-btn-primary"
                                     style="padding: 10px 18px; font-size: 13px; color: #fff;">Book Online</a>
-                                <a href="tel:{{ config('contact.phone_tel') }}" class="ve-btn-ghost-dark"
-                                    style="padding: 10px 18px; font-size: 13px;">Call Now</a>
+                                <a href="{{ route('services.wedding-limo') }}" class="ve-btn-ghost-dark"
+                                    style="padding: 10px 18px; font-size: 13px;">Read More</a>
                             </div>
                         </div>
                     </div>
@@ -306,8 +306,9 @@
                             <div class="ve-services-btns mt-35" style="display: flex; gap: 10px; flex-wrap: wrap;">
                                 <a href="{{ route('book-online') }}" class="ve-btn-primary"
                                     style="padding: 10px 18px; font-size: 13px; color: #fff;">Book Online</a>
-                                <a href="tel:{{ config('contact.phone_tel') }}" class="ve-btn-ghost-dark"
-                                    style="padding: 10px 18px; font-size: 13px;">Call Now</a>
+                                <a href="{{ route('services.corporate-transportation') }}" class="ve-btn-ghost-dark"
+                                    style="padding: 10px 18px; font-size: 13px;">Read More</a>
+
                             </div>
                         </div>
                     </div>
@@ -315,7 +316,7 @@
             </div>
             <div class="row">
                 <div class="col-12 mt-5 text-center wow fadeInUp" data-wow-delay="500ms">
-                    <a href="services.html" class="ve-btn-primary">View More Services</a>
+                    <a href="{{ route('our-services') }}" class="ve-btn-primary">View More Services</a>
                 </div>
             </div>
         </div>
@@ -400,7 +401,7 @@
             </div>
             <div class="row">
                 <div class="col-12 mt-5 text-center wow fadeInUp" data-wow-delay="500ms">
-                    <a href="#" class="ve-btn-primary">View All Fleet</a>
+                    <a href="{{ route('our-fleet') }}" class="ve-btn-primary">View All Fleet</a>
                 </div>
             </div>
         </div>

@@ -18,6 +18,7 @@ Route::get('/our-fleet', function () {
     return view('our-fleet');
 })->name('our-fleet');
 
+
 Route::get('/contact-us', function () {
     return view('contact-us');
 })->name('contact-us');
@@ -26,3 +27,39 @@ Route::get('/book-online', function () {
     return view('book-online');
 })->name('book-online');
 
+//services
+Route::get('/services/airport-transportation', function () {
+    return view('services.airport-transportation');
+})->name('services.airport-transportation');
+
+Route::get('/services/corporate-transportation', function () {
+    return view('services.corporate-transportation');
+})->name('services.corporate-transportation');
+
+Route::get('/services/wedding-limo', function () {
+    return view('services.wedding-limo');
+})->name('services.wedding-limo');
+
+Route::get('/services/prom-limo', function () {
+    return view('services.prom-limo');
+})->name('services.prom-limo');
+
+Route::get('/services/sporting-events', function () {
+    return view('services.sporting-events');
+})->name('services.sporting-events');
+
+Route::get('/services/group-transportation', function () {
+    return view('services.group-transportation');
+})->name('services.group-transportation');
+
+Route::get('/services/concert-festival', function () {
+    return view('services.concert-festival');
+})->name('services.concert-festival');
+
+Route::get('/services/party-bus', function () {
+    return view('services.party-bus');
+})->name('services.party-bus');
+
+Route::get('/services/cruise-port-transfers', function () {
+    return view('services.cruise-port-transfers');
+})->name('services.cruise-port-transfers');

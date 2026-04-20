@@ -20,7 +20,8 @@
     <section class="ve-contact-cards-section">
         <div class="container">
             <div class="ve-contact-cards-grid">
-                <a href="https://www.google.com/maps/search/?api=1&query={{ urlencode(config('contact.location')) }}" target="_blank" style="text-decoration: none; color: inherit;">
+                <a href="https://www.google.com/maps/search/?api=1&query={{ urlencode(config('contact.location')) }}"
+                    target="_blank" style="text-decoration: none; color: inherit;">
                     <div class="ve-contact-info-card wow fadeInUp" data-wow-delay="100ms">
                         <div class="ve-ci-icon"><i class="fa fa-map-marker"></i></div>
                         <h5>Visit Our Office</h5>
@@ -71,7 +72,8 @@
                             <div class="ve-form-row">
                                 <div class="ve-form-group">
                                     <label>Phone Number</label>
-                                    <input type="tel" placeholder="Your phone number">
+                                    <input type="text" placeholder="Your phone number" required minlength="10"
+                                        maxlength="15" oninput="this.value = this.value.replace(/[^0-9]/g, '');">
                                 </div>
                                 <div class="ve-form-group">
                                     <label>Subject</label>
@@ -118,11 +120,14 @@
     <section class="ve-section ve-coverage-section" style="background: var(--ve-dark);">
         <div class="container">
             <div class="ve-section-header text-center">
-                <span class="ve-section-tag" style="background: rgba(255,255,255,0.1); color: #fff; border-color: rgba(255,255,255,0.2);">Where We Are</span>
+                <span class="ve-section-tag"
+                    style="background: rgba(255,255,255,0.1); color: #fff; border-color: rgba(255,255,255,0.2);">Where We
+                    Are</span>
                 <h2 style="color:#fff;">Our Service <span>Coverage Area</span></h2>
-                <p style="color:rgba(255,255,255,0.55);">We provide premium transportation services across major hubs and surrounding regions.</p>
+                <p style="color:rgba(255,255,255,0.55);">We provide premium transportation services across major hubs and
+                    surrounding regions.</p>
             </div>
-            
+
             <div class="ve-coverage-grid">
                 <div class="ve-coverage-item wow fadeInUp" data-wow-delay="100ms">
                     <h5>Florida</h5>
@@ -164,14 +169,15 @@
                         <span class="ve-section-tag">Common Inquiries</span>
                         <h2>Frequently Asked <span>Questions</span></h2>
                     </div>
-                    
+
                     <div class="ve-faq-grid mt-4">
                         <!-- FAQ 1 -->
                         <div class="ve-faq-item wow fadeInUp" data-wow-delay="100ms">
                             <div class="ve-faq-icon"><i class="fa fa-calendar-check-o"></i></div>
                             <div class="ve-faq-content">
                                 <h5>How early should I book my ride?</h5>
-                                <p>For standard airport transfers, we recommend 24 hours in advance. For special events, booking 2-4 weeks early ensures your preferred vehicle.</p>
+                                <p>For standard airport transfers, we recommend 24 hours in advance. For special events,
+                                    booking 2-4 weeks early ensures your preferred vehicle.</p>
                             </div>
                         </div>
                         <!-- FAQ 2 -->
@@ -179,7 +185,8 @@
                             <div class="ve-faq-icon"><i class="fa fa-undo"></i></div>
                             <div class="ve-faq-content">
                                 <h5>What is your cancellation policy?</h5>
-                                <p>Cancellations more than 24 hours before pickup are fully refundable. Late cancellations may incur a fee based on vessel type.</p>
+                                <p>Cancellations more than 24 hours before pickup are fully refundable. Late cancellations
+                                    may incur a fee based on vessel type.</p>
                             </div>
                         </div>
                         <!-- FAQ 3 -->
@@ -187,7 +194,8 @@
                             <div class="ve-faq-icon"><i class="fa fa-user-circle-o"></i></div>
                             <div class="ve-faq-content">
                                 <h5>Do you offer terminal meet-and-greet?</h5>
-                                <p>Yes, our professional chauffeurs will meet you at baggage claim or arrivals with a personalized name sign for ease of contact.</p>
+                                <p>Yes, our professional chauffeurs will meet you at baggage claim or arrivals with a
+                                    personalized name sign for ease of contact.</p>
                             </div>
                         </div>
                         <!-- FAQ 4 -->
@@ -195,7 +203,8 @@
                             <div class="ve-faq-icon"><i class="fa fa-credit-card"></i></div>
                             <div class="ve-faq-content">
                                 <h5>Are your rates fixed or hourly?</h5>
-                                <p>We offer both! Fixed rates for airport transfers and hourly bookings for events providing maximum flexibility for your itinerary.</p>
+                                <p>We offer both! Fixed rates for airport transfers and hourly bookings for events providing
+                                    maximum flexibility for your itinerary.</p>
                             </div>
                         </div>
                     </div>

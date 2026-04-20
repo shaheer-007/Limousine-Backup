@@ -3,12 +3,22 @@
 
 <head>
     <meta charset="UTF-8">
-    <meta name="description" content="{{ config('app.name', 'Premium Limousine') }} - Luxury Chauffeur & Limousine Services">
+    <meta name="description"
+        content="{{ config('app.name', 'Premium Limousine') }} - Luxury Chauffeur & Limousine Services">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-    <title>{{ config('app.name', 'Premier Limousine') }} | Luxury Transportation</title>
-    <link rel="icon" href="{{ asset('assets/img/core-img/favicon.ico') }}">
+    <!-- Open Graph Meta Tags -->
+    <meta property="og:title" content="{{ config('app.name', 'Elite Limo') }} | Luxury Transportation">
+    <meta property="og:description"
+        content="Premium limousine and luxury chauffeur services. Providing elegant, reliable, and safe transportation.">
+    <meta property="og:image" content="{{ asset('assets/img/logo/logo-3.svg') }}">
+    <meta property="og:url" content="{{ url()->current() }}">
+    <meta property="og:type" content="website">
+
+    <title>{{ config('app.name', 'Elite Limo') }} | Luxury Transportation</title>
+    <!-- Favicon -->
+    <link rel="icon" type="image/png" href="{{ asset('assets/img/logo/fav-icon.png') }}">
     <link rel="stylesheet" href="{{ asset('assets/css/bootstrap.min.css') }}">
     <link rel="stylesheet" href="{{ asset('assets/css/classy-nav.css') }}">
     <link rel="stylesheet" href="{{ asset('assets/css/font-awesome.min.css') }}">
@@ -31,4 +41,5 @@
     <script src="{{ asset('assets/js/active.js') }}"></script>
     <script src="{{ asset('assets/js/vaultedge.js') }}"></script>
 </body>
+
 </html>

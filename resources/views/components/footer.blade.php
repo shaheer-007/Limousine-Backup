@@ -24,20 +24,24 @@
                     <li><a href="{{ route('home') }}">Home</a></li>
                     <li><a href="{{ route('book-online') }}">Book Online</a></li>
                     <li><a href="{{ route('about-us') }}">About us</a></li>
-                    <li><a href="#">Our Services</a></li>
-                    <li><a href="#">Our Fleet</a></li>
-                    <li><a href="#">Contact us</a></li>
+                    <li><a href="{{ route('our-services') }}">Our Services</a></li>
+                    <li><a href="{{ route('our-fleet') }}">Our Fleet</a></li>
+                    <li><a href="{{ route('contact-us') }}">Contact us</a></li>
                 </ul>
             </div>
             <!-- Col 3: Services -->
             <div class="col-12 col-sm-6 col-lg-3 mb-50">
                 <h5 class="ve-footer-title">Our Services</h5>
                 <ul class="ve-footer-links">
-                    <li><a href="#">Airport Transfers</a></li>
-                    <li><a href="#">Corporate Travel</a></li>
-                    <li><a href="#">Wedding Limousine</a></li>
-                    <li><a href="#">Special Events</a></li>
-                    <li><a href="#">Fleet Gallery</a></li>
+                    <li><a href="{{ route('services.airport-transportation') }}">Airport Transportation</a></li>
+                    <li><a href="{{ route('services.corporate-transportation') }}">Corporate Transportation</a></li>
+                    <li><a href="{{ route('services.wedding-limo') }}">Wedding Limo</a></li>
+                    <li><a href="{{ route('services.prom-limo') }}">Prom Limo</a></li>
+                    <li><a href="{{ route('services.sporting-events') }}">Sporting Events</a></li>
+                    <li><a href="{{ route('services.group-transportation') }}">Group Transportation</a></li>
+                    <li><a href="{{ route('services.concert-festival') }}">Concerts & Festivals</a></li>
+                    <li><a href="{{ route('services.party-bus') }}">Party Buses</a></li>
+                    <li><a href="{{ route('services.cruise-port-transfers') }}">Cruise Port Transfers</a></li>
                 </ul>
             </div>
             <!-- Col 4: Contact -->
