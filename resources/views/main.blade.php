@@ -7,6 +7,7 @@
         content="{{ config('app.name', 'Premium Limousine') }} - Luxury Chauffeur & Limousine Services">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="canonical" href="{{ url()->current() }}">
 
     <!-- Open Graph Meta Tags -->
     <meta property="og:title" content="Alar Chauffeur Service | Luxury Transportation">
