@@ -36,9 +36,9 @@
                         <div class="ve-detail-text wow fadeInUp" data-wow-delay="200ms">
                             <span class="ve-section-tag">Your Special Day</span>
                             <h2>Elegant Wedding <span>Transportation</span></h2>
-                            <p class="ve-lead">Make your wedding day truly unforgettable with our premium, high-class limousine and luxury chauffeur services.</p>
+                            <p class="ve-lead">Make your wedding day truly unforgettable with our premium, high class limousine and luxury chauffeur services.</p>
                             
-                            <p>Your wedding is one of the most important days of your life, and every detail should be perfect. At Elite Limo, we specialize in providing sophisticated and reliable transportation that adds a touch of magic to your celebration. From arriving at the ceremony in a stunning stretch limousine to the final "Just Married" getaway, we ensure your journey is as beautiful as the destination.</p>
+                            <p>Your wedding is one of the most important days of your life, and every detail should be perfect. At Alar Chauffeur Service, we specialize in providing sophisticated and reliable transportation that adds a touch of magic to your celebration. From arriving at the ceremony in a stunning stretch limousine to the final "Just Married" getaway, we ensure your journey is as beautiful as the destination.</p>
                             
                             <p>Our dedicated wedding coordinators work closely with you to customize every aspect of your transportation. Whether you need a single luxury sedan for the bride and groom or a fleet of SUVs and party buses for the entire wedding party and guests, we have the perfect vehicles to match your style and needs.</p>
 
@@ -80,7 +80,7 @@
                                 <div class="row">
                                     <div class="col-md-6">
                                         <ul>
-                                            <li><i class="fa fa-check"></i> Chilled Bottled Water & Ice</li>
+                                            <li><i class="fa fa-check"></i> Chilled Bottled Water and Ice</li>
                                             <li><i class="fa fa-check"></i> Premium Sound Systems</li>
                                             <li><i class="fa fa-check"></i> Climate Control Comfort</li>
                                         </ul>
@@ -88,8 +88,8 @@
                                     <div class="col-md-6">
                                         <ul>
                                             <li><i class="fa fa-check"></i> Professional Uniformed Chauffeurs</li>
-                                            <li><i class="fa fa-check"></i> Late-Model Meticulous Fleet</li>
-                                            <li><i class="fa fa-check"></i> Multi-Car Package Discounts</li>
+                                            <li><i class="fa fa-check"></i> Late Model Meticulous Fleet</li>
+                                            <li><i class="fa fa-check"></i> Multi Car Package Discounts</li>
                                         </ul>
                                     </div>
                                 </div>
@@ -109,13 +109,13 @@
 
                                 <div class="mt-40 wow fadeInUp" data-wow-delay="100ms">
                                     <h3>A Legacy of <span>Excellence</span></h3>
-                                    <p>With years of experience in wedding logistics, we understand the importance of reliability and attention to detail. Our chauffeurs go above and beyond to provide a stress-free environment, allowing you to focus entirely on your celebration.</p>
+                                    <p>With years of experience in wedding logistics, we understand the importance of reliability and attention to detail. Our chauffeurs go above and beyond to provide a stress free environment, allowing you to focus entirely on your celebration.</p>
                                     
                                     <div class="ve-quote-box mt-30">
                                         <i class="fa fa-quote-left"></i>
                                         <p>Everything was perfect! The limo was gorgeous, and the driver was so incredibly helpful with my dress and making sure we were comfortable. They made our wedding day feel even more special.</p>
                                         <div class="ve-quote-author">
-                                            <strong>Jessica & David</strong>
+                                            <strong>Jessica and David</strong>
                                             <span>Married May 2025</span>
                                         </div>
                                     </div>
@@ -123,7 +123,7 @@
 
                                 <div class="row align-items-center mt-50 mb-30">
                                     <div class="col-md-6 order-2 order-md-1 wow fadeInLeft" data-wow-delay="100ms">
-                                        <h3>Stress-Free <span>Guest Logistics</span></h3>
+                                        <h3>Stress Free <span>Guest Logistics</span></h3>
                                         <p>Don't let your guests worry about directions or parking. Our group transportation services are a thoughtful way to ensure everyone arrives safely and on time. From luxury vans for the immediate family to large shuttle buses for the entire guest list, we have you covered.</p>
                                         <p>We can coordinate multiple pickup locations and return trips at the end of the night, providing a safe and sophisticated end to your perfect day.</p>
                                     </div>

@@ -9,14 +9,14 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
     <!-- Open Graph Meta Tags -->
-    <meta property="og:title" content="{{ config('app.name', 'Elite Limo') }} | Luxury Transportation">
+    <meta property="og:title" content="Alar Chauffeur Service | Luxury Transportation">
     <meta property="og:description"
         content="Premium limousine and luxury chauffeur services. Providing elegant, reliable, and safe transportation.">
-    <meta property="og:image" content="{{ asset('assets/img/logo/logo-3.svg') }}">
+    <meta property="og:image" content="{{ asset('assets/img/logo/logo.png') }}">
     <meta property="og:url" content="{{ url()->current() }}">
     <meta property="og:type" content="website">
 
-    <title>{{ config('app.name', 'Elite Limo') }} | Luxury Transportation</title>
+    <title>Alar Chauffeur Service | Luxury Transportation</title>
     <!-- Favicon -->
     <link rel="icon" type="image/png" href="{{ asset('assets/img/logo/fav-icon.png') }}">
     <link rel="stylesheet" href="{{ asset('assets/css/bootstrap.min.css') }}">
@@ -40,6 +40,11 @@
     <script src="{{ asset('assets/js/plugins/plugins.js') }}"></script>
     <script src="{{ asset('assets/js/active.js') }}"></script>
     <script src="{{ asset('assets/js/vaultedge.js') }}"></script>
+
+    <!-- WhatsApp Floating Button -->
+    <a href="{{ config('contact.whatsapp_link') }}" class="ve-whatsapp-float" target="_blank" aria-label="Chat on WhatsApp">
+        <i class="fa fa-whatsapp"></i>
+    </a>
 </body>
 
 </html>

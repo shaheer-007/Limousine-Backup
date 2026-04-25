@@ -14,7 +14,7 @@
             <!-- Logo -->
             <div class="ve-logo">
                 <a href="{{ route('home') }}">
-                    <img src="{{ asset('assets/img/logo/logo-3.svg') }}" alt="Logo">
+                    <img src="{{ asset('assets/img/logo/logo.png') }}" alt="Logo">
                 </a>
             </div>
             <!-- Nav Links -->
@@ -25,6 +25,17 @@
                     <li class="{{ request()->routeIs('about-us') ? 'active' : '' }}"><a href="{{ route('about-us') }}">About us</a></li>
                     <li class="{{ request()->routeIs('our-services') ? 'active' : '' }}"><a href="{{ route('our-services') }}">Our Services</a></li>
                     <li class="{{ request()->routeIs('our-fleet') ? 'active' : '' }}"><a href="{{ route('our-fleet') }}">Our Fleet</a></li>
+                    <li class="has-drop">
+                        <a href="#">Service Areas <i class="fa fa-angle-down"></i></a>
+                        <ul class="ve-dropdown">
+                            <li><a href="{{ route('service-area.new-jersey') }}">New Jersey</a></li>
+                            <li><a href="{{ route('service-area.new-york') }}">New York</a></li>
+                            <li><a href="{{ route('service-area.california') }}">California</a></li>
+                            <li><a href="{{ route('service-area.san-francisco') }}">Luxury Limo Service in San Francisco</a></li>
+                            <li><a href="{{ route('service-area.nevada') }}">Nevada</a></li>
+                            <li><a href="{{ route('service-area.seattle') }}">Seattle</a></li>
+                        </ul>
+                    </li>
                     <li class="{{ request()->routeIs('contact-us') ? 'active' : '' }}"><a href="{{ route('contact-us') }}">Contact us</a></li>
                 </ul>
             </nav>
@@ -50,6 +61,17 @@
                 <li class="{{ request()->routeIs('about-us') ? 'active' : '' }}"><a href="{{ route('about-us') }}">About us</a></li>
                 <li class="{{ request()->routeIs('our-services') ? 'active' : '' }}"><a href="{{ route('our-services') }}">Our Services</a></li>
                 <li class="{{ request()->routeIs('our-fleet') ? 'active' : '' }}"><a href="{{ route('our-fleet') }}">Our Fleet</a></li>
+                <li class="has-drop">
+                    <a href="#">Service Areas</a>
+                    <ul class="ve-mobile-dropdown" style="padding-left: 20px; list-style: none;">
+                        <li><a href="{{ route('service-area.new-jersey') }}" style="padding: 10px 20px; font-size: 14px;">New Jersey</a></li>
+                        <li><a href="{{ route('service-area.new-york') }}" style="padding: 10px 20px; font-size: 14px;">New York</a></li>
+                        <li><a href="{{ route('service-area.california') }}" style="padding: 10px 20px; font-size: 14px;">California</a></li>
+                        <li><a href="{{ route('service-area.san-francisco') }}" style="padding: 10px 20px; font-size: 14px;">Luxury Limo Service in San Francisco</a></li>
+                        <li><a href="{{ route('service-area.nevada') }}" style="padding: 10px 20px; font-size: 14px;">Nevada</a></li>
+                        <li><a href="{{ route('service-area.seattle') }}" style="padding: 10px 20px; font-size: 14px;">Seattle</a></li>
+                    </ul>
+                </li>
                 <li class="{{ request()->routeIs('contact-us') ? 'active' : '' }}"><a href="{{ route('contact-us') }}">Contact us</a></li>
             </ul>
             <div class="ve-mobile-contact">

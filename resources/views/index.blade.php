@@ -5,9 +5,8 @@
     <section class="ve-hero">
         <!-- Left Panel -->
         <div class="ve-hero-left">
-            <h1>Arrive in <span class="ve-highlight">Style</span><br>With Perfection</h1>
-            <p>Luxury transportation for every occasion. Experience the peak of comfort, safety, and professionalism with
-                our premium chauffeur-driven limousine services.</p>
+            <h1>Nationwide <span class="ve-highlight">Luxury</span><br>At Your Service</h1>
+            <p>Experience the peak of professional ground transportation. From our home base in Kansas City to major destinations across New York, California, and Nevada, Alar Chauffeur Service provides a seamless, world class travel experience. Whether you require executive airport transfers at JFK and LAX, sophisticated state to state travel, or elegant transportation for weddings and corporate events, our dedicated chauffeurs ensure your comfort, safety, and absolute punctuality for every mile of the journey.</p>
             <div class="ve-hero-btns">
                 <a href="{{ route('book-online') }}" class="ve-btn-primary">Book Online</a>
                 <a href="tel:{{ config('contact.phone_tel') }}" class="ve-btn-ghost">Call Now</a>
@@ -26,24 +25,6 @@
         </div>
     </section>
 
-    <!-- ===== MARQUEE TRUST BAR ===== -->
-    <!-- <div class="ve-trust-bar">
-                <div class="ve-trust-inner">
-                    <span>Florida</span>
-                    <span>New York</span>
-                    <span>New Jersey</span>
-                    <span>Pennsylvania</span>
-                    <span>Georgia</span>
-                    <span>Tennessee</span>
-                    <span>Texas</span>
-                    <span>California</span>
-                    <span>Nevada</span>
-                    <span>Massachusetts</span>
-                </div>
-            </div>
-         -->
-
-    <!-- ===== WHY US (two-column: image left, content right) ===== -->
     <section class="ve-section ve-whyus-section">
         <div class="container">
             <div class="row align-items-center">
@@ -75,14 +56,14 @@
                             </div>
                             <div class="ve-check-item">
                                 <i class="fa fa-check-circle"></i>
-                                <div><strong>Fixed & Transparent Pricing</strong>
+                                <div><strong>Fixed and Transparent Pricing</strong>
                                     <p>No unexpected surcharges. Know your fare upfront when you book with us.</p>
                                 </div>
                             </div>
                             <div class="ve-check-item">
                                 <i class="fa fa-check-circle"></i>
-                                <div><strong>Reliable & Punctual</strong>
-                                    <p>We value your time. Our chauffeurs arrive 15 minutes early to ensure on-time
+                                <div><strong>Reliable and Punctual</strong>
+                                    <p>We value your time. Our chauffeurs arrive 15 minutes early to ensure on time
                                         departure.</p>
                                 </div>
                             </div>
@@ -98,13 +79,107 @@
             </div>
         </div>
     </section>
+
+        <!-- ===== MAJOR AIRPORTS GRID ===== -->
+    <section class="ve-airport-grid-section">
+        <div class="container">
+            <div class="ve-section-header text-center">
+                <span class="ve-section-tag">National Coverage</span>
+                <h2>Major Airports <span>We Serve</span></h2>
+                <p>We provide premium chauffeur services to and from the most significant travel hubs across the country.</p>
+            </div>
+
+            <div class="row g-4 gy-5">
+                <!-- Row 1 -->
+                <div class="col-lg-3 col-md-6 mb-30 mb-lg-0 wow fadeInUp" data-wow-delay="100ms">
+                    <div class="ve-airport-card-text">
+                        <h4>JFK Airport Limo Service NYC</h4>
+                        <p>John F. Kennedy International Airport is our specialty. We provide professional car and limo services to JFK from all five boroughs and beyond.</p>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6 mb-30 mb-lg-0 wow fadeInUp" data-wow-delay="200ms">
+                    <div class="ve-airport-card-img" style="background-image:url({{ asset('assets/img/our-services/aiport-transfer.webp') }});"></div>
+                </div>
+                <div class="col-lg-3 col-md-6 mb-30 mb-lg-0 wow fadeInUp" data-wow-delay="300ms">
+                    <div class="ve-airport-card-text">
+                        <h4>LGA Limo Service LaGuardia</h4>
+                        <p>Experience seamless transfers to and from LaGuardia Airport. Our chauffeurs ensure you never miss a flight or a critical business meeting.</p>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6 mb-30 mb-lg-0 wow fadeInUp" data-wow-delay="400ms">
+                    <div class="ve-airport-card-img" style="background-image:url({{ asset('assets/img/slider/slider-1.webp') }});"></div>
+                </div>
+
+                <!-- Row 2 -->
+                <div class="col-lg-3 col-md-6 mb-30 mb-lg-0 wow fadeInUp" data-wow-delay="100ms">
+                    <div class="ve-airport-card-img" style="background-image:url({{ asset('assets/img/fleet/mercedes-s550.webp') }});"></div>
+                </div>
+                <div class="col-lg-3 col-md-6 mb-30 mb-lg-0 wow fadeInUp" data-wow-delay="200ms">
+                    <div class="ve-airport-card-text">
+                        <h4>Newark Airport Limo Service EWR</h4>
+                        <p>Whether you are a corporate executive or a family traveler, we have the perfect vehicle for your Newark Liberty International trip.</p>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6 mb-30 mb-lg-0 wow fadeInUp" data-wow-delay="300ms">
+                    <div class="ve-airport-card-img" style="background-image:url({{ asset('assets/img/about-us/premium-luxury-1.webp') }});"></div>
+                </div>
+                <div class="col-lg-3 col-md-6 mb-30 mb-lg-0 wow fadeInUp" data-wow-delay="400ms">
+                    <div class="ve-airport-card-text">
+                        <h4>San Francisco International SFO</h4>
+                        <p>Arrive in the Bay Area with absolute confidence. Our SFO chauffeur service provides premium transportation to San Francisco and Silicon Valley.</p>
+                    </div>
+                </div>
+
+                <!-- Row 3 -->
+                <div class="col-lg-3 col-md-6 mb-30 mb-lg-0 wow fadeInUp" data-wow-delay="100ms">
+                    <div class="ve-airport-card-text">
+                        <h4>Harry Reid International LAS</h4>
+                        <p>Experience the excitement of Las Vegas from the moment you land. We provide seamless, high class transfers from Harry Reid Airport to the Strip.</p>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6 mb-30 mb-lg-0 wow fadeInUp" data-wow-delay="200ms">
+                    <div class="ve-airport-card-img" style="background-image:url({{ asset('assets/img/fleet/cadillac-escalade.webp') }});"></div>
+                </div>
+                <div class="col-lg-3 col-md-6 mb-30 mb-lg-0 wow fadeInUp" data-wow-delay="300ms">
+                    <div class="ve-airport-card-text">
+                        <h4>Seattle-Tacoma International SEA</h4>
+                        <p>Reliable airport transfers in the Pacific Northwest. We serve Sea-Tac with the same commitment to excellence and absolute punctuality for every traveler.</p>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6 mb-30 mb-lg-0 wow fadeInUp" data-wow-delay="400ms">
+                    <div class="ve-airport-card-img" style="background-image:url({{ asset('assets/img/our-services/wedding-transportation.webp') }});"></div>
+                </div>
+
+                <!-- Row 4 -->
+                <div class="col-lg-3 col-md-6 mb-30 mb-lg-0 wow fadeInUp" data-wow-delay="100ms">
+                    <div class="ve-airport-card-img" style="background-image:url({{ asset('assets/img/slider/slider-2.webp') }});"></div>
+                </div>
+                <div class="col-lg-3 col-md-6 mb-30 mb-lg-0 wow fadeInUp" data-wow-delay="200ms">
+                    <div class="ve-airport-card-text">
+                        <h4>Kansas City International MCI</h4>
+                        <p>Your local partner for professional travel. We provide premium chauffeur services to and from MCI, ensuring a smooth start to your journey from home.</p>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6 mb-30 mb-lg-0 wow fadeInUp" data-wow-delay="300ms">
+                    <div class="ve-airport-card-img" style="background-image:url({{ asset('assets/img/fleet/escalade-limo.webp') }});"></div>
+                </div>
+                <div class="col-lg-3 col-md-6 mb-30 mb-lg-0 wow fadeInUp" data-wow-delay="400ms">
+                    <div class="ve-airport-card-text">
+                        <h4>Los Angeles International LAX</h4>
+                        <p>Navigate the West Coast with ease. Our LAX airport service provides a stress free alternative to the famous Southern California traffic.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    
     <!-- ===== SERVICES GRID (new card layout) ===== -->
     <section class="ve-section ve-services-section">
         <div class="container">
             <div class="ve-section-header text-center">
-                <span class="ve-section-tag">Elite Choice</span>
+                <span class="ve-section-tag">Alar Choice</span>
                 <h2>Our <span>Features</span></h2>
-                <p>Discover the premium amenities and standards that set our limousine service apart.</p>
+                <p>Discover the premium amenities and standards that set Alar Chauffeur Service apart.</p>
             </div>
             <div class="ve-services-grid">
                 <div class="ve-service-card wow fadeInUp" data-wow-delay="100ms">
@@ -135,7 +210,7 @@
                 <div class="ve-service-card wow fadeInUp" data-wow-delay="600ms">
                     <div class="ve-service-icon"><i class="fa fa-car"></i></div>
                     <h4>Our Fleet</h4>
-                    <p>Explore our range of late-model sedans, SUVs, and stretch limousines for your next trip.</p>
+                    <p>Explore our range of late model sedans, SUVs, and stretch limousines for your next trip.</p>
                 </div>
             </div>
         </div>
@@ -148,20 +223,20 @@
                 <div class="col-12 col-lg-6 wow fadeInRight" data-wow-delay="200ms">
                     <div>
                         <span class="ve-section-tag">Why Choose Us</span>
-                        <h2>The Elite Standard in <span>Luxury Travel</span></h2>
+                        <h2>The Alar Standard in <span>Luxury Travel</span></h2>
                         <p class="ve-lead">We are a team of professional transportation specialists dedicated to providing
-                            more than just a ride—we provide a premium travel experience.</p>
+                            more than just a ride, we provide a premium travel experience.</p>
                         <p>Founded in 2012, our service was built on a single mission: to redefine luxury transportation
-                            through punctuality, safety, and unparalleled comfort. Today, we operate a world-class fleet
+                            through punctuality, safety, and unparalleled comfort. Today, we operate a world class fleet
                             serving thousands of satisfied clients.</p>
                         <div class="ve-about-features">
                             <div class="ve-af-item"><i class="fa fa-badge"></i><span>Certified Professional
                                     Chauffeurs</span></div>
-                            <div class="ve-af-item"><i class="fa fa-shield"></i><span>Fully Insured & Licensed Fleet</span>
+                            <div class="ve-af-item"><i class="fa fa-shield"></i><span>Fully Insured and Licensed Fleet</span>
                             </div>
-                            <div class="ve-af-item"><i class="fa fa-clock-o"></i><span>Guaranteed On-Time Arrival</span>
+                            <div class="ve-af-item"><i class="fa fa-clock-o"></i><span>Guaranteed On Time Arrival</span>
                             </div>
-                            <div class="ve-af-item"><i class="fa fa-star"></i><span>5-Star Premium Amenities</span></div>
+                            <div class="ve-af-item"><i class="fa fa-star"></i><span>5 Star Premium Amenities</span></div>
                             <div class="ve-fleet-btns mt-4" style="display: flex; gap: 10px; flex-wrap: wrap;">
                                 <a href="#" class="ve-btn-primary"
                                     style="padding: 10px 18px; font-size: 13px; color: #fff;">Book
@@ -191,23 +266,23 @@
             <div class="ve-counter-grid">
                 <div class="ve-counter-item wow fadeInUp" data-wow-delay="100ms">
                     <i class="fa fa-users"></i>
-                    <strong class="counter" data-count="15000">0</strong><span>+</span>
+                    <strong class="counter" data-count="600">0</strong><span>+</span>
                     <p>Happy Passengers</p>
                 </div>
                 <div class="ve-counter-item wow fadeInUp" data-wow-delay="200ms">
                     <i class="fa fa-car"></i>
-                    <strong class="counter" data-count="250">0</strong><span>+</span>
+                    <strong class="counter" data-count="50">0</strong><span>+</span>
                     <p>Luxury Vehicles</p>
                 </div>
                 <div class="ve-counter-item wow fadeInUp" data-wow-delay="300ms">
                     <i class="fa fa-map-marker"></i>
-                    <strong class="counter" data-count="50">0</strong><span>+</span>
+                    <strong class="counter" data-count="10">0</strong><span>+</span>
                     <p>Cities Covered</p>
                 </div>
                 <div class="ve-counter-item wow fadeInUp" data-wow-delay="400ms">
                     <i class="fa fa-star"></i>
-                    <strong class="counter" data-count="12">0</strong><span></span>
-                    <p>Service Awards</p>
+                    <strong class="counter" data-count="3">0</strong><span></span>
+                    <p>Years of Excellence</p>
                 </div>
             </div>
         </div>
@@ -218,13 +293,13 @@
         <div class="container">
             <div class="ve-section-header text-center">
                 <span class="ve-section-tag">Luxury Standard</span>
-                <h2>Superior <span>On-Board Amenities</span></h2>
+                <h2>Superior <span>On Board Amenities</span></h2>
                 <p>We provide more than just a ride; we provide an environment of absolute comfort and sophistication.</p>
             </div>
             <div class="ve-amenities-grid">
                 <div class="ve-amenity-item wow fadeInUp" data-wow-delay="100ms">
                     <div class="ve-amenity-icon"><i class="fa fa-diamond"></i></div>
-                    <h5>First-Class Seating</h5>
+                    <h5>First Class Seating</h5>
                     <p>Meticulously crafted leather interiors designed for ultimate relaxation.</p>
                 </div>
                 <div class="ve-amenity-item wow fadeInUp" data-wow-delay="200ms">
@@ -235,7 +310,7 @@
                 <div class="ve-amenity-item wow fadeInUp" data-wow-delay="300ms">
                     <div class="ve-amenity-icon"><i class="fa fa-music"></i></div>
                     <h5>Entertainment</h5>
-                    <p>High-fidelity audio systems and seamless multi-media connectivity.</p>
+                    <p>High-fidelity audio systems and seamless multi media connectivity.</p>
                 </div>
                 <div class="ve-amenity-item wow fadeInUp" data-wow-delay="400ms">
                     <div class="ve-amenity-icon"><i class="fa fa-lock"></i></div>
@@ -328,7 +403,7 @@
             <div class="ve-section-header text-center">
                 <span class="ve-section-tag">Luxury Fleet</span>
                 <h2>Experience Our <span>Premium Vehicles</span></h2>
-                <p>Choose from our diverse collection of late-model, meticulously maintained luxury vehicles.</p>
+                <p>Choose from our diverse collection of late model, meticulously maintained luxury vehicles.</p>
             </div>
             <div class="row gy-5">
                 <!-- Fleet 1 -->
@@ -338,7 +413,7 @@
                             style="background-image:url({{ asset('assets/img/fleet/mercedes-s550.webp') }});">
                         </div>
                         <div class="ve-insight-body">
-                            <h5>Mercedes-Benz S550</h5>
+                            <h5>Mercedes Benz S550</h5>
                             <p>The pinnacle of luxury sedans, perfect for executive travel and airport transfers.</p>
                             <div class="ve-insight-meta">
                                 <span><i class="fa fa-user"></i> 3 Passengers</span>
@@ -361,7 +436,7 @@
                         </div>
                         <div class="ve-insight-body">
                             <h5>Cadillac Escalade</h5>
-                            <p>Spacious, powerful, and iconic. The ideal choice for groups and long-distance travel.</p>
+                            <p>Spacious, powerful, and iconic. The ideal choice for groups and long distance travel.</p>
                             <div class="ve-insight-meta">
                                 <span><i class="fa fa-user"></i> 6 Passengers</span>
                                 <span><i class="fa fa-briefcase"></i> 6 Bags</span>
@@ -436,7 +511,7 @@
                 <div class="ve-testi-card">
                     <div class="ve-testi-stars">&#9733;&#9733;&#9733;&#9733;&#9733;</div>
                     <p>"Outstanding corporate service. Their attention to detail and professional attitude makes them our
-                        go-to for all executive transport needs."</p>
+                        go to for all executive transport needs."</p>
                     <div class="ve-testi-author">
                         <div class="ve-testi-avatar-text">JL</div>
                         <div><strong>James Liu</strong><span>Client</span></div>
@@ -453,7 +528,7 @@
                 </div>
                 <div class="ve-testi-card">
                     <div class="ve-testi-stars">&#9733;&#9733;&#9733;&#9733;&#9733;</div>
-                    <p>"Reliable, punctual and extremely comfortable. I've used Elite Limo for all my business trips
+                    <p>"Reliable, punctual and extremely comfortable. I've used Alar Chauffeur Service for all my business trips
                         and they never disappoint. Five stars every time!"</p>
                     <div class="ve-testi-author">
                         <div class="ve-testi-avatar-text">DW</div>

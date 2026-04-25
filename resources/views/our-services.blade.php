@@ -35,7 +35,7 @@
                         <div class="ve-insight-body">
                             <h5>Airport Transportation</h5>
                             <p>Reliable and luxurious transportation to and from all major airports with professional
-                                terminal meet-and-greet.</p>
+                                terminal meet and greet.</p>
                             <div class="ve-services-btns mt-35" style="display: flex; gap: 10px; flex-wrap: wrap;">
                                 <a href="{{ route('book-online') }}" class="ve-btn-primary"
                                     style="padding: 10px 18px; font-size: 13px; color: #fff;">Book Online</a>
@@ -152,7 +152,7 @@
                         </div>
                         <div class="ve-insight-body">
                             <h5>Concerts and Festivals</h5>
-                            <p>Experience the music without the stress. Enjoy door-to-door service to your favorite music
+                            <p>Experience the music without the stress. Enjoy door to door service to your favorite music
                                 venues.</p>
                             <div class="ve-services-btns mt-35" style="display: flex; gap: 10px; flex-wrap: wrap;">
                                 <a href="{{ route('book-online') }}" class="ve-btn-primary"
@@ -190,7 +190,7 @@
                             style="background-image:url({{ asset('assets/img/our-services/cruise-limo.webp') }});"></div>
                         <div class="ve-insight-body">
                             <h5>Cruise Port Transfers</h5>
-                            <p>Start your vacation early with a stress-free ride to the cruise terminal with plenty of room
+                            <p>Start your vacation early with a stress free ride to the cruise terminal with plenty of room
                                 for luggage.</p>
                             <div class="ve-services-btns mt-35" style="display: flex; gap: 10px; flex-wrap: wrap;">
                                 <a href="{{ route('book-online') }}" class="ve-btn-primary"
@@ -211,14 +211,14 @@
             <div class="ve-section-header text-center">
                 <span class="ve-section-tag">Simple Process</span>
                 <h2>How It <span>Works</span></h2>
-                <p>Getting a luxury ride with Elite Limo is as easy as 1-2-3-4. We handle the details so you can sit back
+                <p>Getting a luxury ride with Alar Chauffeur Service is as easy as 1, 2, 3, and 4. We handle the details so you can sit back
                     and relax.</p>
             </div>
             <div class="ve-process-grid">
                 <div class="ve-process-step wow fadeInUp" data-wow-delay="100ms">
                     <div class="ve-process-num">01</div>
                     <h5>Book Your Ride</h5>
-                    <p>Use our online form or call us directly. Share your date, time, and pick-up location.</p>
+                    <p>Use our online form or call us directly. Share your date, time, and pickup location.</p>
                 </div>
                 <div class="ve-process-arrow wow fadeIn" data-wow-delay="150ms"><i class="fa fa-chevron-right"></i></div>
                 <div class="ve-process-step wow fadeInUp" data-wow-delay="200ms">
@@ -236,7 +236,7 @@
                 <div class="ve-process-step wow fadeInUp" data-wow-delay="400ms">
                     <div class="ve-process-num">04</div>
                     <h5>Arrive in Style</h5>
-                    <p>Arrive at your destination refreshed, relaxed, and right on time — every single time.</p>
+                    <p>Arrive at your destination refreshed, relaxed, and right on time, every single time.</p>
                 </div>
             </div>
         </div>
@@ -260,24 +260,24 @@
                 <!-- Content Side -->
                 <div class="col-12 col-lg-6 wow fadeInRight" data-wow-delay="200ms">
                     <div>
-                        <span class="ve-section-tag">The Elite Difference</span>
+                        <span class="ve-section-tag">The Alar Difference</span>
                         <h2>Why Clients Trust <span>Our Services</span></h2>
-                        <p class="ve-lead">More than just transportation — we deliver a premium, end-to-end travel
+                        <p class="ve-lead">More than just transportation, we deliver a premium, end to end travel
                             experience tailored to your needs.</p>
-                        <p>From airport pickups to dream weddings, our fleet of late-model luxury vehicles and
+                        <p>From airport pickups to dream weddings, our fleet of late model luxury vehicles and
                             professionally trained chauffeurs ensure every journey is seamless, safe, and unforgettable.</p>
                         <div class="ve-about-features">
-                            <div class="ve-af-item"><i class="fa fa-shield"></i><span>Fully Licensed & Insured Fleet</span>
+                            <div class="ve-af-item"><i class="fa fa-shield"></i><span>Fully Licensed and Insured Fleet</span>
                             </div>
-                            <div class="ve-af-item"><i class="fa fa-clock-o"></i><span>24/7 Availability — Any Hour, Any
+                            <div class="ve-af-item"><i class="fa fa-clock-o"></i><span>24/7 Availability: Any Hour, Any
                                     Day</span></div>
                             <div class="ve-af-item"><i class="fa fa-diamond"></i><span>Premium Amenities in Every
                                     Vehicle</span></div>
                             <div class="ve-af-item"><i class="fa fa-users"></i><span>Vehicles for 1 to 40+ Passengers</span>
                             </div>
-                            <div class="ve-af-item"><i class="fa fa-money"></i><span>Transparent Pricing — No Hidden
+                            <div class="ve-af-item"><i class="fa fa-money"></i><span>Transparent Pricing and No Hidden
                                     Fees</span></div>
-                            <div class="ve-af-item"><i class="fa fa-star"></i><span>5-Star Rated by Thousands of
+                            <div class="ve-af-item"><i class="fa fa-star"></i><span>5 Star Rated by Thousands of
                                     Clients</span></div>
                         </div>
                         <div class="ve-fleet-btns mt-4" style="display: flex; gap: 10px; flex-wrap: wrap;">
@@ -298,13 +298,13 @@
             <div class="ve-svc-promise-grid">
                 <div class="ve-svc-promise-item wow fadeInUp" data-wow-delay="100ms">
                     <div class="ve-svc-promise-icon"><i class="fa fa-map-marker"></i></div>
-                    <h5>Door-to-Door Service</h5>
-                    <p>Pick-up and drop-off right at your doorstep. No terminals, no waiting in lines.</p>
+                    <h5>Door to Door Service</h5>
+                    <p>Pick up and drop off right at your doorstep. No terminals, no waiting in lines.</p>
                 </div>
                 <div class="ve-svc-promise-item wow fadeInUp" data-wow-delay="200ms">
                     <div class="ve-svc-promise-icon"><i class="fa fa-lock"></i></div>
                     <h5>Safety First</h5>
-                    <p>DOT-compliant vehicles, background-checked drivers, and real-time GPS tracking.</p>
+                    <p>DOT compliant vehicles, background checked drivers, and real time GPS tracking.</p>
                 </div>
                 <div class="ve-svc-promise-item wow fadeInUp" data-wow-delay="300ms">
                     <div class="ve-svc-promise-icon"><i class="fa fa-refresh"></i></div>

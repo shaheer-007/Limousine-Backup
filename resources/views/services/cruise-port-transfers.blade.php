@@ -40,16 +40,16 @@
                             <h2>Smooth Sailing <span>To Your Terminal</span></h2>
                             <p class="ve-lead">Begin and end your cruise vacation with the comfort and reliability of our premium port transfer services.</p>
 
-                            <p>Getting to the cruise port shouldn't be the most stressful part of your vacation. Navigating unfamiliar coastal highways, fighting for expensive long-term parking, and hauling heavy luggage across massive terminal lots can quickly drain the excitement of your upcoming voyage.</p>
+                            <p>Getting to the cruise port shouldn't be the most stressful part of your vacation. Navigating unfamiliar coastal highways, fighting for expensive long term parking, and hauling heavy luggage across massive terminal lots can quickly drain the excitement of your upcoming voyage.</p>
 
-                            <p>Elite Limo provides point-to-point transportation directly to the major cruise terminals. Whether you need a transfer from the airport to your pre-cruise hotel, or direct transportation from your home right to the ship's gangway, our chauffeurs ensure a smooth, relaxing start to your maritime adventure.</p>
+                            <p>Alar Chauffeur Service provides point to point transportation directly to the major cruise terminals. Whether you need a transfer from the airport to your pre cruise hotel, or direct transportation from your home right to the ship's gangway, our chauffeurs ensure a smooth, relaxing start to your maritime adventure.</p>
 
                             <div class="row mt-40 mb-40">
                                 <div class="col-md-6 mb-30">
                                     <div class="ve-feature-box">
                                         <i class="fa fa-ship"></i>
                                         <h5>Direct Terminal Access</h5>
-                                        <p>Authorized access to drop off and pick up directly at the luggage porters and check-in terminals.</p>
+                                        <p>Authorized access to drop off and pick up directly at the luggage porters and check in terminals.</p>
                                     </div>
                                 </div>
                                 <div class="col-md-6 mb-30">
@@ -83,15 +83,15 @@
                                     <div class="col-md-6">
                                         <ul>
                                             <li><i class="fa fa-check"></i> Airport to Port Transfers</li>
-                                            <li><i class="fa fa-check"></i> Hotel Pickup & Coordination</li>
+                                            <li><i class="fa fa-check"></i> Hotel Pickup and Coordination</li>
                                             <li><i class="fa fa-check"></i> Spacious Cargo Capacity</li>
                                         </ul>
                                     </div>
                                     <div class="col-md-6">
                                         <ul>
-                                            <li><i class="fa fa-check"></i> Real-time Traffic Monitoring</li>
-                                            <li><i class="fa fa-check"></i> Disembarkation Wait & Greet</li>
-                                            <li><i class="fa fa-check"></i> Large Group Mini-Coaches</li>
+                                            <li><i class="fa fa-check"></i> Real time Traffic Monitoring</li>
+                                            <li><i class="fa fa-check"></i> Disembarkation Wait and Greet</li>
+                                            <li><i class="fa fa-check"></i> Large Group Mini Coaches</li>
                                         </ul>
                                     </div>
                                 </div>
@@ -104,19 +104,19 @@
                                             class="img-fluid rounded-12 shadow-sm">
                                     </div>
                                     <div class="col-md-6 mb-30 wow fadeInRight" data-wow-delay="200ms">
-                                        <h3>Stress-Free <span>Debarkation</span></h3>
+                                        <h3>Stress Free <span>Debarkation</span></h3>
                                         <p>Returning from a cruise can be chaotic with thousands of passengers trying to find transportation simultaneously. Skip the long taxi lines.</p>
-                                        <p>Your chauffeur will be waiting in the designated pre-arranged transport area the moment you clear customs, ready to whisk you smoothly back to the airport or your home.</p>
+                                        <p>Your chauffeur will be waiting in the designated pre arranged transport area the moment you clear customs, ready to whisk you smoothly back to the airport or your home.</p>
                                     </div>
                                 </div>
 
                                 <div class="mt-40 wow fadeInUp" data-wow-delay="100ms">
                                     <h3>Trusted by <span>Travelers</span></h3>
-                                    <p>Our commitment to reliable, high-quality service makes us the preferred transportation partner for seasoned cruise vacationers.</p>
+                                    <p>Our commitment to reliable, high quality service makes us the preferred transportation partner for seasoned cruise vacationers.</p>
 
                                     <div class="ve-quote-box mt-30">
                                         <i class="fa fa-quote-left"></i>
-                                        <p>We booked Elite Limo for our family cruise out of the main port. Getting 8 people and 12 pieces of luggage there was intimidating, but their Sprinter van handled it flawlessly. It set the perfect tone for our vacation!</p>
+                                        <p>We booked Alar Chauffeur Service for our family cruise out of the main port. Getting 8 people and 12 pieces of luggage there was intimidating, but their Sprinter van handled it flawlessly. It set the perfect tone for our vacation!</p>
                                         <div class="ve-quote-author">
                                             <strong>The Harrison Family</strong>
                                             <span>Annual Cruisers</span>
@@ -126,8 +126,8 @@
 
                                 <div class="row align-items-center mt-50 mb-30">
                                     <div class="col-md-6 order-2 order-md-1 wow fadeInLeft" data-wow-delay="100ms">
-                                        <h3>Vans & SUVs <span>for Groups</span></h3>
-                                        <p>Cruising is often a group activity. Our luxury SUVs and high-top passenger vans provide ample head room and expansive cargo space, making group travel to the terminal efficient and affordable.</p>
+                                        <h3>Vans and SUVs <span>for Groups</span></h3>
+                                        <p>Cruising is often a group activity. Our luxury SUVs and high top passenger vans provide ample head room and expansive cargo space, making group travel to the terminal efficient and affordable.</p>
                                         <p>Keep your party together from the moment you leave your front door.</p>
                                     </div>
                                     <div class="col-md-6 order-1 order-md-2 mb-30 wow fadeInRight" data-wow-delay="200ms">

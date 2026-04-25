@@ -40,7 +40,7 @@
                             <h2>Seamless Logistics <span>for Large Groups</span></h2>
                             <p class="ve-lead">Coordinate safe, reliable, and comfortable transportation for groups of any size with our premium fleet.</p>
 
-                            <p>Organizing travel for a large group can be an overwhelming logistical challenge. From corporate retreats and family reunions to major conventions and guided tours, coordinating multiple vehicles and pickup times often leads to confusion and delays. Elite Limo provides a consolidated, stress-free solution for all your group transportation needs.</p>
+                            <p>Organizing travel for a large group can be an overwhelming logistical challenge. From corporate retreats and family reunions to major conventions and guided tours, coordinating multiple vehicles and pickup times often leads to confusion and delays. Alar Chauffeur Service provides a consolidated, stress free solution for all your group transportation needs.</p>
 
                             <p>Our dedicated group logistics coordinators work with you to plan every detail. We offer a versatile fleet consisting of large luxury SUVs, Mercedes Sprinter vans, and spacious motor coaches. We don't just provide vehicles; we provide a comprehensive transportation strategy tailored specifically to your itinerary.</p>
 
@@ -69,27 +69,27 @@
                                 <div class="col-md-6 mb-30">
                                     <div class="ve-feature-box">
                                         <i class="fa fa-check-circle"></i>
-                                        <h5>On-Site Coordinators</h5>
-                                        <p>For very large events, we provide on-site staff to manage loading and ensure smooth departures.</p>
+                                        <h5>On Site Coordinators</h5>
+                                        <p>For very large events, we provide on site staff to manage loading and ensure smooth departures.</p>
                                     </div>
                                 </div>
                             </div>
 
                             <h3>Versatile Fleet <span>Options</span></h3>
-                            <p>Comfort doesn't have to be sacrificed when traveling in numbers. Our top-of-the-line Sprinter vans and motor coaches feature executive-style seating, climate control, and entertainment systems. You'll experience the same Elite Limo luxury whether you're in a sedan or a 55-passenger bus.</p>
+                            <p>Comfort doesn't have to be sacrificed when traveling in numbers. Our top of the line Sprinter vans and motor coaches feature executive style seating, climate control, and entertainment systems. You'll experience the same Alar Chauffeur Service luxury whether you're in a sedan or a 55-passenger bus.</p>
 
                             <div class="ve-amenities-list mt-30 wow fadeInUp" data-wow-delay="300ms">
                                 <div class="row">
                                     <div class="col-md-6">
                                         <ul>
-                                            <li><i class="fa fa-check"></i> Wi-Fi & Power Outlets</li>
+                                            <li><i class="fa fa-check"></i> Wi-Fi and Power Outlets</li>
                                             <li><i class="fa fa-check"></i> PA Systems for Tour Guides</li>
                                             <li><i class="fa fa-check"></i> Reclining Executive Seats</li>
                                         </ul>
                                     </div>
                                     <div class="col-md-6">
                                         <ul>
-                                            <li><i class="fa fa-check"></i> Tinted Windows & Privacy</li>
+                                            <li><i class="fa fa-check"></i> Tinted Windows and Privacy</li>
                                             <li><i class="fa fa-check"></i> ADA Accessible Options</li>
                                             <li><i class="fa fa-check"></i> Dedicated Event Managers</li>
                                         </ul>
@@ -104,8 +104,8 @@
                                             class="img-fluid rounded-12 shadow-sm">
                                     </div>
                                     <div class="col-md-6 mb-30 wow fadeInRight" data-wow-delay="200ms">
-                                        <h3>Corporate & <span>Convention Travel</span></h3>
-                                        <p>Impress your attendees and ensure your event runs smoothly with reliable shuttle services. We specialize in point-to-point transfers between airports, convention centers, and partner hotels.</p>
+                                        <h3>Corporate and <span>Convention Travel</span></h3>
+                                        <p>Impress your attendees and ensure your event runs smoothly with reliable shuttle services. We specialize in point to point transfers between airports, convention centers, and partner hotels.</p>
                                         <p>We provide a reliable backbone for your event logistics, so you can focus on the program rather than worrying about attendees getting lost in a new city.</p>
                                     </div>
                                 </div>
@@ -116,7 +116,7 @@
 
                                     <div class="ve-quote-box mt-30">
                                         <i class="fa fa-quote-left"></i>
-                                        <p>Elite Limo moved our entire 300-person conference flawlessly. The vehicles were immaculate, the drivers were courteous, and their event coordinator made my job so much easier. Phenomenal service.</p>
+                                        <p>Alar Chauffeur Service moved our entire 300 person conference flawlessly. The vehicles were immaculate, the drivers were courteous, and their event coordinator made my job so much easier. Phenomenal service.</p>
                                         <div class="ve-quote-author">
                                             <strong>Sarah Jenkins</strong>
                                             <span>Corporate Event Director</span>
@@ -126,7 +126,7 @@
 
                                 <div class="row align-items-center mt-50 mb-30">
                                     <div class="col-md-6 order-2 order-md-1 wow fadeInLeft" data-wow-delay="100ms">
-                                        <h3>Family Reunions & <span>Tours</span></h3>
+                                        <h3>Family Reunions and <span>Tours</span></h3>
                                         <p>Keep the family together! When navigating the city for a reunion, sightseeing tour, or massive celebration, keeping everyone in one vehicle enhances the fun and ensures nobody gets left behind.</p>
                                         <p>Our polite, knowledgeable chauffeurs can provide insights into the local area and adapt to route changes, so your group can explore at their own pace.</p>
                                     </div>

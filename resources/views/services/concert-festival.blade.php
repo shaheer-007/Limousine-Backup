@@ -40,9 +40,9 @@
                             <h2>Premium Transportation <span>for Live Music Events</span></h2>
                             <p class="ve-lead">Skip the parking nightmare and let the good times roll from the moment we pick you up.</p>
 
-                            <p>Attending a live concert or a multi-day festival should be all about the music and the memories. But getting in and out of a packed venue can quickly turn a great night into a stressful ordeal. Elite Limo takes the hassle out of event transportation so you can focus on the show.</p>
+                            <p>Attending a live concert or a multi-day festival should be all about the music and the memories. But getting in and out of a packed venue can quickly turn a great night into a stressful ordeal. Alar Chauffeur Service takes the hassle out of event transportation so you can focus on the show.</p>
 
-                            <p>Whether you're heading to an intimate theater or a massive outdoor stadium, our professional chauffeurs provide seamless door-to-door service. Ditch the surge-pricing of rideshares, keep your group together, and enjoy the true VIP experience.</p>
+                            <p>Whether you're heading to an intimate theater or a massive outdoor stadium, our professional chauffeurs provide seamless door to door service. Ditch the surge pricing of rideshares, keep your group together, and enjoy the true VIP experience.</p>
 
                             <div class="row mt-40 mb-40">
                                 <div class="col-md-6 mb-30">
@@ -55,7 +55,7 @@
                                 <div class="col-md-6 mb-30">
                                     <div class="ve-feature-box">
                                         <i class="fa fa-map-marker"></i>
-                                        <h5>VIP Drop-off</h5>
+                                        <h5>VIP Drop off</h5>
                                         <p>Our drivers know the venues. We get you as close to the entrance as possible, bypassing long walks.</p>
                                     </div>
                                 </div>
@@ -69,28 +69,28 @@
                                 <div class="col-md-6 mb-30">
                                     <div class="ve-feature-box">
                                         <i class="fa fa-clock-o"></i>
-                                        <h5>Easy Post-Show Exit</h5>
+                                        <h5>Easy Post Show Exit</h5>
                                         <p>Your chauffeur will be waiting at a designated spot. No wandering around trying to find your ride.</p>
                                     </div>
                                 </div>
                             </div>
 
                             <h3>Luxury Tailored <span>to Your Vibe</span></h3>
-                            <p>We boast a diverse fleet tailored for any concert experience. Select a sleek SUV for an intimate night out, or go all out with a Party Bus equipped with LED lighting, flat-screen monitors, and perimeter seating. Whatever your style, you'll travel safely and comfortably.</p>
+                            <p>We boast a diverse fleet tailored for any concert experience. Select a sleek SUV for an intimate night out, or go all out with a Party Bus equipped with LED lighting, flat screen monitors, and perimeter seating. Whatever your style, you'll travel safely and comfortably.</p>
 
                             <div class="ve-amenities-list mt-30 wow fadeInUp" data-wow-delay="300ms">
                                 <div class="row">
                                     <div class="col-md-6">
                                         <ul>
-                                            <li><i class="fa fa-check"></i> High-End Audio Systems</li>
+                                            <li><i class="fa fa-check"></i> High End Audio Systems</li>
                                             <li><i class="fa fa-check"></i> Ice Bins and Glassware Included</li>
                                             <li><i class="fa fa-check"></i> Deep Tinted Privacy Windows</li>
                                         </ul>
                                     </div>
                                     <div class="col-md-6">
                                         <ul>
-                                            <li><i class="fa fa-check"></i> Multi-Point Pickup & Drop-Offs</li>
-                                            <li><i class="fa fa-check"></i> Reliable Up-Front Pricing</li>
+                                            <li><i class="fa fa-check"></i> Multi Point Pickup and Drop Offs</li>
+                                            <li><i class="fa fa-check"></i> Reliable Up Front Pricing</li>
                                             <li><i class="fa fa-check"></i> Safe Returns Guaranteed</li>
                                         </ul>
                                     </div>
@@ -106,13 +106,13 @@
                                     <div class="col-md-6 mb-30 wow fadeInRight" data-wow-delay="200ms">
                                         <h3>The Ultimate <span>Festival Transport</span></h3>
                                         <p>Heading to a massive outdoor festival? Forget the dusty parking lots and gridlocked exits. Our larger vehicles, like our Hummer Limousines and Party Buses, are the ultimate basecamp.</p>
-                                        <p>We provide a reliable, air-conditioned sanctuary where the group can recharge, ensuring everyone makes it safely back to the hotel after an exhausting day.</p>
+                                        <p>We provide a reliable, air conditioned sanctuary where the group can recharge, ensuring everyone makes it safely back to the hotel after an exhausting day.</p>
                                     </div>
                                 </div>
 
                                 <div class="mt-40 wow fadeInUp" data-wow-delay="100ms">
                                     <h3>Driven by <span>Excellence</span></h3>
-                                    <p>Our commitment to reliable, high-quality service makes us the preferred transportation partner for music fans looking for an elevated experience. Let us handle the driving.</p>
+                                    <p>Our commitment to reliable, high quality service makes us the preferred transportation partner for music fans looking for an elevated experience. Let us handle the driving.</p>
 
                                     <div class="ve-quote-box mt-30">
                                         <i class="fa fa-quote-left"></i>
@@ -126,8 +126,8 @@
 
                                 <div class="row align-items-center mt-50 mb-30">
                                     <div class="col-md-6 order-2 order-md-1 wow fadeInLeft" data-wow-delay="100ms">
-                                        <h3>Stress-Free <span>Coordination</span></h3>
-                                        <p>Don't worry about trying to keep a caravan of cars together. When you book with Elite Limo, everyone arrives at the same time and leaves at the same time.</p>
+                                        <h3>Stress Free <span>Coordination</span></h3>
+                                        <p>Don't worry about trying to keep a caravan of cars together. When you book with Alar Chauffeur Service, everyone arrives at the same time and leaves at the same time.</p>
                                         <p>Enjoy the music, enjoy the drinks, and let our professional chauffeurs worry about the road.</p>
                                     </div>
                                     <div class="col-md-6 order-1 order-md-2 mb-30 wow fadeInRight" data-wow-delay="200ms">

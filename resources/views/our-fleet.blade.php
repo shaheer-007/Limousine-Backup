@@ -49,7 +49,7 @@
         <div class="container">
             <div class="ve-section-header text-center">
                 <span class="ve-section-tag">The Best Choice</span>
-                <h2>Experience <span>First-Class Comfort</span></h2>
+                <h2>Experience <span>First Class Comfort</span></h2>
                 <p>Meticulously maintained vehicles for every occasion, from executive sedans to luxury coaches.</p>
             </div>
 
@@ -126,8 +126,8 @@
                         <div class="ve-insight-img bg-img"
                             style="background-image:url({{ asset('assets/img/fleet/mercedes-s550.webp') }});"></div>
                         <div class="ve-insight-body">
-                            <h5>Mercedes-Benz S550</h5>
-                            <p>World-class engineering and ultimate comfort. The top choice for executive transportation.
+                            <h5>Mercedes Benz S550</h5>
+                            <p>World class engineering and ultimate comfort. The top choice for executive transportation.
                             </p>
                             <div class="ve-insight-meta">
                                 <span><i class="fa fa-user"></i> 3 Passengers</span>
@@ -150,7 +150,7 @@
                             style="background-image:url({{ asset('assets/img/fleet/chevrolet-suburban.webp') }});"></div>
                         <div class="ve-insight-body">
                             <h5>Chevrolet Suburban</h5>
-                            <p>Heavy-duty luxury SUV, perfect for families and small groups with significant luggage.</p>
+                            <p>Heavy duty luxury SUV, perfect for families and small groups with significant luggage.</p>
                             <div class="ve-insight-meta">
                                 <span><i class="fa fa-user"></i> 6 Passengers</span>
                                 <span><i class="fa fa-briefcase"></i> 6 Bags</span>
@@ -239,7 +239,7 @@
                             style="background-image:url({{ asset('assets/img/fleet/lincoln-mkt-stretch.webp') }});"></div>
                         <div class="ve-insight-body">
                             <h5>Lincoln MKT Stretch</h5>
-                            <p>A modern take on the stretch limo, featuring contemporary styling and high-tech amenities.
+                            <p>A modern take on the stretch limo, featuring contemporary styling and high tech amenities.
                             </p>
                             <div class="ve-insight-meta">
                                 <span><i class="fa fa-user"></i> 8-10 Passengers</span>
@@ -262,7 +262,7 @@
                             style="background-image:url({{ asset('assets/img/fleet/escalade-limo.webp') }});"></div>
                         <div class="ve-insight-body">
                             <h5>Escalade Limo</h5>
-                            <p>The ultimate statement vehicle. High capacity with a bold presence and club-like interior.
+                            <p>The ultimate statement vehicle. High capacity with a bold presence and club like interior.
                             </p>
                             <div class="ve-insight-meta">
                                 <span><i class="fa fa-user"></i> 14-18 Passengers</span>
@@ -353,7 +353,7 @@
                             style="background-image:url({{ asset('assets/img/fleet/44-passenger.webp') }});"></div>
                         <div class="ve-insight-body">
                             <h5>44 Passengers Bus</h5>
-                            <p>Spacious mid-size motor coach, ideal for long-distance travel and large group excursions.</p>
+                            <p>Spacious mid size motor coach, ideal for long distance travel and large group excursions.</p>
                             <div class="ve-insight-meta">
                                 <span><i class="fa fa-user"></i> 44 Passengers</span>
                                 <span><i class="fa fa-wifi"></i> Onboard WiFi</span>
@@ -375,7 +375,7 @@
                             style="background-image:url({{ asset('assets/img/fleet/55-passenger-bus.webp') }});"></div>
                         <div class="ve-insight-body">
                             <h5>55 Passengers Coach</h5>
-                            <p>Executive motor coach with premium amenities. The ultimate solution for large-scale
+                            <p>Executive motor coach with premium amenities. The ultimate solution for large scale
                                 transportation.</p>
                             <div class="ve-insight-meta">
                                 <span><i class="fa fa-user"></i> 55 Passengers</span>
@@ -401,23 +401,23 @@
                 <span class="ve-section-tag"
                     style="background: rgba(255,255,255,0.1); color: #fff; border-color: rgba(255,255,255,0.2);">Inside the
                     Luxury</span>
-                <h2 style="color:#fff;">Premium <span>On-Board Features</span></h2>
+                <h2 style="color:#fff;">Premium <span>On Board Features</span></h2>
             </div>
             <div class="ve-counter-grid">
                 <div class="ve-counter-item wow fadeInUp" data-wow-delay="100ms">
                     <i class="fa fa-snowflake-o"></i>
                     <h5 style="color:#fff; margin-top:15px;">Climate Control</h5>
-                    <p style="color:rgba(255,255,255,0.5);">Adjustable multi-zone air conditioning for your comfort.</p>
+                    <p style="color:rgba(255,255,255,0.5);">Adjustable multi zone air conditioning for your comfort.</p>
                 </div>
                 <div class="ve-counter-item wow fadeInUp" data-wow-delay="200ms">
                     <i class="fa fa-volume-up"></i>
                     <h5 style="color:#fff; margin-top:15px;">Premium Audio</h5>
-                    <p style="color:rgba(255,255,255,0.5);">High-fidelity sound systems with Bluetooth connectivity.</p>
+                    <p style="color:rgba(255,255,255,0.5);">High fidelity sound systems with Bluetooth connectivity.</p>
                 </div>
                 <div class="ve-counter-item wow fadeInUp" data-wow-delay="300ms">
                     <i class="fa fa-wifi"></i>
                     <h5 style="color:#fff; margin-top:15px;">Fast Wi-Fi</h5>
-                    <p style="color:rgba(255,255,255,0.5);">Stay connected with high-speed complimentary hotspot.</p>
+                    <p style="color:rgba(255,255,255,0.5);">Stay connected with high speed complimentary hotspot.</p>
                 </div>
                 <div class="ve-counter-item wow fadeInUp" data-wow-delay="400ms">
                     <i class="fa fa-bolt"></i>
@@ -443,7 +443,7 @@
                         <div class="ve-checklist">
                             <div class="ve-check-item">
                                 <i class="fa fa-check-circle"></i>
-                                <div><strong>Daily Multi-Point Sanitization</strong>
+                                <div><strong>Daily Multi Point Sanitization</strong>
                                     <p>Deep cleaning and air purification after every trip.</p>
                                 </div>
                             </div>
@@ -455,8 +455,8 @@
                             </div>
                             <div class="ve-check-item">
                                 <i class="fa fa-check-circle"></i>
-                                <div><strong>Advanced GPS & Safety Tracking</strong>
-                                    <p>Real-time monitoring and defensive driving systems.</p>
+                                <div><strong>Advanced GPS and Safety Tracking</strong>
+                                    <p>Real time monitoring and defensive driving systems.</p>
                                 </div>
                             </div>
                         </div>

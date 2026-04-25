@@ -11,8 +11,8 @@
     --ve-dark: #0d1b2a;
     --ve-dark2: #162032;
     --ve-navy: #1a2f4b;
-    --ve-gold: #bf945b;
-    --ve-gold2: #bf945b;
+    --ve-gold: #ad8b24;
+    --ve-gold2: #ad8b24;
     --ve-light: #f4f7fb;
     --ve-white: #ffffff;
     --ve-text: #4a5568;
@@ -59,7 +59,7 @@ h6 {
     align-items: center;
     justify-content: space-between;
     padding: 0 40px;
-    height: 72px;
+    height: 85px;
 }
 /* Logo */
 .ve-logo a {
@@ -70,8 +70,10 @@ h6 {
 }
 .ve-logo img {
     height: auto;
-    width: 160px;
+    max-height: 65px;
+    width: auto;
     display: block;
+    object-fit: contain;
 }
 .ve-footer-brand img {
     width: 160px;
@@ -81,7 +83,7 @@ h6 {
 }
 
 /* Nav links */
-.ve-nav ul {
+.ve-nav > ul {
     list-style: none;
     margin: 0;
     padding: 0;
@@ -126,7 +128,7 @@ h6 {
     position: absolute;
     top: 100%;
     left: 0;
-    min-width: 200px;
+    min-width: 260px;
     background: var(--ve-dark2);
     border-radius: 10px;
     padding: 10px 0;
@@ -136,6 +138,8 @@ h6 {
     transition: var(--ve-trans);
     box-shadow: 0 20px 40px rgba(0, 0, 0, 0.3);
     border: 1px solid rgba(255, 255, 255, 0.08);
+    display: block; /* Ensure vertical list */
+    list-style: none;
 }
 .ve-dropdown li a {
     padding: 10px 20px;
@@ -298,7 +302,7 @@ h6 {
 .ve-hero {
     display: flex;
     min-height: 100vh;
-    padding-top: 72px;
+    padding-top: 85px;
     background: var(--ve-dark);
     overflow: hidden;
 }
@@ -1301,7 +1305,7 @@ body {
    ============================================================ */
 .ve-page-hero {
     position: relative;
-    padding: 160px 0 90px;
+    padding: 175px 0 90px;
     background-size: cover;
     background-position: center;
     overflow: hidden;
@@ -1725,6 +1729,14 @@ body {
 .ve-coverage-item ul li i {
     color: var(--ve-gold);
     font-size: 14px;
+}
+.ve-coverage-item ul li a {
+    color: rgba(255, 255, 255, 0.7) !important;
+    text-decoration: none;
+    transition: var(--ve-trans);
+}
+.ve-coverage-item ul li a:hover {
+    color: var(--ve-gold) !important;
 }
 
 /* Contact FAQ Redesign */
@@ -4419,3 +4431,176 @@ textarea.ve-form-input {
     color: #666;
     margin-bottom: 20px;
 }
+
+/* ============================================================
+   AIRPORT GRID SECTION
+   ============================================================ */
+.ve-airport-grid-section {
+    padding: 100px 0;
+    background: #fff;
+}
+.ve-airport-card-text {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 30px;
+    background: #fdfdfd;
+    border-radius: 15px;
+    transition: var(--ve-trans);
+}
+.ve-airport-card-text h4 {
+    color: var(--ve-gold); /* Premium Pinkish Accent */
+    font-size: 20px;
+    font-weight: 800;
+    margin-bottom: 12px;
+}
+.ve-airport-card-text p {
+    font-size: 13px;
+    line-height: 1.7;
+    color: #6a7682;
+    margin: 0;
+}
+.ve-airport-card-img {
+    height: 100%;
+    min-height: 240px;
+    border-radius: 15px;
+    background-size: cover;
+    background-position: center;
+    transition: var(--ve-trans);
+    box-shadow: 0 5px 20px rgba(0,0,0,0.05);
+}
+.ve-airport-card-img:hover, 
+.ve-airport-card-text:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 30px rgba(0,0,0,0.08);
+}
+
+@media (max-width: 767px) {
+    .ve-airport-card-img {
+        min-height: 200px;
+        margin-bottom: 20px;
+    }
+    .ve-airport-card-text {
+        margin-bottom: 20px;
+        padding: 25px;
+    }
+}
+
+/* ============================================================
+   SIMPLE PAGE HERO (Text focused)
+   ============================================================ */
+.ve-page-hero-simple {
+    background: var(--ve-dark);
+    padding: 120px 0 80px;
+    text-align: center;
+}
+.ve-hero-simple-content h1 {
+    color: #fff;
+    font-size: 48px;
+    font-weight: 900;
+    margin-bottom: 15px;
+}
+.ve-hero-simple-content h1 span {
+    color: var(--ve-gold);
+}
+.ve-hero-simple-content p {
+    color: rgba(255,255,255,0.7);
+    font-size: 18px;
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+/* Feature Text Item */
+.ve-feature-text-item {
+    padding: 30px;
+    background: #fcfcfc;
+    border-radius: 12px;
+    border: 1px solid #f0f0f0;
+    transition: var(--ve-trans);
+}
+.ve-feature-text-item:hover {
+    background: #fff;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.05);
+    transform: translateY(-5px);
+}
+.ve-feature-text-item i {
+    font-size: 28px;
+    color: var(--ve-gold);
+    margin-bottom: 15px;
+    display: block;
+}
+.ve-feature-text-item h5 {
+    font-size: 18px;
+    font-weight: 700;
+    margin-bottom: 10px;
+}
+.ve-feature-text-item p {
+    font-size: 14px;
+    color: var(--ve-text);
+    margin: 0;
+    line-height: 1.6;
+}
+
+/* Sidebar Links */
+.ve-sidebar-links {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+.ve-sidebar-links li {
+    margin-bottom: 10px;
+}
+.ve-sidebar-links li a {
+    display: block;
+    padding: 12px 20px;
+    background: #f4f7fb;
+    border-radius: 8px;
+    color: var(--ve-dark);
+    font-weight: 600;
+    text-decoration: none;
+    transition: var(--ve-trans);
+}
+.ve-sidebar-links li a:hover,
+.ve-sidebar-links li.active a {
+    background: var(--ve-gold);
+    color: var(--ve-dark);
+}
+
+/* WhatsApp Floating Button */
+.ve-whatsapp-float {
+    position: fixed;
+    width: 70px;
+    height: 70px;
+    bottom: 40px;
+    right: 40px;
+    background-color: #25d366;
+    color: #FFF;
+    border-radius: 50px;
+    text-align: center;
+    font-size: 36px;
+    box-shadow: 2px 2px 20px rgba(0,0,0,0.3);
+    z-index: 10000;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: all 0.3s ease;
+    animation: ve-pulse 2s infinite;
+}
+.ve-whatsapp-float:hover {
+    background-color: #128c7e;
+    color: #fff;
+    transform: translateY(-5px) scale(1.05);
+    box-shadow: 2px 10px 30px rgba(0,0,0,0.4);
+    animation: none;
+}
+.ve-whatsapp-float i {
+    margin-top: 0;
+}
+
+@keyframes ve-pulse {
+    0% { transform: scale(1); box-shadow: 0 0 0 0 rgba(37, 211, 102, 0.7); }
+    70% { transform: scale(1.05); box-shadow: 0 0 0 15px rgba(37, 211, 102, 0); }
+    100% { transform: scale(1); box-shadow: 0 0 0 0 rgba(37, 211, 102, 0); }
+}
+

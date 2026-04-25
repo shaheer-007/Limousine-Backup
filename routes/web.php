@@ -1,5 +1,6 @@
 <?php
 
+use App\Http\Controllers\ContactController;
 use Illuminate\Support\Facades\Route;
 
 Route::get('/', function () {
@@ -63,3 +64,29 @@ Route::get('/services/party-bus', function () {
 Route::get('/services/cruise-port-transfers', function () {
     return view('services.cruise-port-transfers');
 })->name('services.cruise-port-transfers');
+
+Route::get('/service-areas/new-jersey', function () {
+    return view('service-areas.new-jersey');
+})->name('service-area.new-jersey');
+
+Route::get('/service-areas/new-york', function () {
+    return view('service-areas.new-york');
+})->name('service-area.new-york');
+
+Route::get('/service-areas/california', function () {
+    return view('service-areas.california');
+})->name('service-area.california');
+
+Route::get('/service-areas/san-francisco', function () {
+    return view('service-areas.san-francisco');
+})->name('service-area.san-francisco');
+
+Route::get('/service-areas/nevada', function () {
+    return view('service-areas.nevada');
+})->name('service-area.nevada');
+
+Route::get('/service-areas/seattle', function () {
+    return view('service-areas.seattle');
+})->name('service-area.seattle');
+
+Route::post('/contact-us', [ContactController::class, 'store'])->name('contact.store');

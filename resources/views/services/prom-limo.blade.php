@@ -38,51 +38,51 @@
                             <h2>The Ultimate <span>Prom Experience</span></h2>
                             <p class="ve-lead">Arrive in style and make a grand entrance at your prom with our espectacular fleet of luxury limousines and party buses.</p>
                             
-                            <p>Prom night is a once-in-a-lifetime event, and you deserve a ride that's as spectacular as your outfit. At Elite Limo, we provide more than just transportation; we provide the ultimate backdrop for your prom memories. From the moment our sparkling limousine pulls up to your door to the final drop-off, you'll feel like a true celebrity.</p>
+                            <p>Prom night is a once in a lifetime event, and you deserve a ride that's as spectacular as your outfit. At Alar Chauffeur Service, we provide more than just transportation; we provide the ultimate backdrop for your prom memories. From the moment our sparkling limousine pulls up to your door to the final drop off, you'll feel like a true celebrity.</p>
                             
-                            <p>We understand that for parents, safety is the top priority. That's why all our chauffeurs are background-checked, professionally trained, and committed to a strict zero-tolerance policy for underage drinking and unsafe behavior. With Elite Limo, students get the style they want, and parents get the peace of mind they need.</p>
+                            <p>We understand that for parents, safety is the top priority. That's why all our chauffeurs are background checked, professionally trained, and committed to a strict zero tolerance policy for underage drinking and unsafe behavior. With Alar Chauffeur Service, students get the style they want, and parents get the peace of mind they need.</p>
 
                             <div class="row mt-40 mb-40">
                                 <div class="col-md-6 mb-30">
                                     <div class="ve-feature-box">
                                         <i class="fa fa-music"></i>
-                                        <h5>Epic Sound & Lights</h5>
-                                        <p>Premium Bluetooth sound systems and custom fiber-optic lighting to get the party started before you arrive.</p>
+                                        <h5>Epic Sound and Lights</h5>
+                                        <p>Premium Bluetooth sound systems and custom fiber optic lighting to get the party started before you arrive.</p>
                                     </div>
                                 </div>
                                 <div class="col-md-6 mb-30">
                                     <div class="ve-feature-box">
                                         <i class="fa fa-users"></i>
                                         <h5>Group Packages</h5>
-                                        <p>Affordable rates and high-capacity vehicles so you can split the cost with all your friends.</p>
+                                        <p>Affordable rates and high capacity vehicles so you can split the cost with all your friends.</p>
                                     </div>
                                 </div>
                                 <div class="col-md-6 mb-30">
                                     <div class="ve-feature-box">
                                         <i class="fa fa-shield"></i>
                                         <h5>Safety Certified</h5>
-                                        <p>Professional chauffeurs who prioritize student safety and follow all parent-specified itineraries.</p>
+                                        <p>Professional chauffeurs who prioritize student safety and follow all parent specified itineraries.</p>
                                     </div>
                                 </div>
                                 <div class="col-md-6 mb-30">
                                     <div class="ve-feature-box">
                                         <i class="fa fa-camera"></i>
                                         <h5>Photo Opportunities</h5>
-                                        <p>Our pristine vehicles provide the perfect, glamorous background for your pre-prom group photos.</p>
+                                        <p>Our pristine vehicles provide the perfect, glamorous background for your pre prom group photos.</p>
                                     </div>
                                 </div>
                             </div>
 
                             <h3>Luxury for <span>Every Group Size</span></h3>
-                            <p>Whether you're going as a couple or with twenty of your closest friends, our fleet has you covered. Choose from our elegant stretch limos, powerful SUV limousines, or our high-energy party buses. Every vehicle is meticulously cleaned and stocked with complimentary refreshments to ensure your night is perfect from start to finish.</p>
+                            <p>Whether you're going as a couple or with twenty of your closest friends, our fleet has you covered. Choose from our elegant stretch limos, powerful SUV limousines, or our high energy party buses. Every vehicle is meticulously cleaned and stocked with complimentary refreshments to ensure your night is perfect from start to finish.</p>
 
                             <div class="ve-amenities-list mt-30 wow fadeInUp" data-wow-delay="300ms">
                                 <div class="row">
                                     <div class="col-md-6">
                                         <ul>
-                                            <li><i class="fa fa-check"></i> Chilled Soft Drinks & Water</li>
+                                            <li><i class="fa fa-check"></i> Chilled Soft Drinks and Water</li>
                                             <li><i class="fa fa-check"></i> Bluetooth Audio Integration</li>
-                                            <li><i class="fa fa-check"></i> Multi-Point Pickup & Drop-off</li>
+                                            <li><i class="fa fa-check"></i> Multi Point Pickup and Drop off</li>
                                         </ul>
                                     </div>
                                     <div class="col-md-6">
@@ -113,7 +113,7 @@
                                     
                                     <div class="ve-quote-box mt-30">
                                         <i class="fa fa-quote-left"></i>
-                                        <p>I was so worried about my son and his friends driving on prom night. Elite Limo was amazing. The driver was professional, the car was spotless, and most importantly, I knew they were in safe hands all night.</p>
+                                        <p>I was so worried about my son and his friends driving on prom night. Alar Chauffeur Service was amazing. The driver was professional, the car was spotless, and most importantly, I knew they were in safe hands all night.</p>
                                         <div class="ve-quote-author">
                                             <strong>Mary Henderson</strong>
                                             <span>High School Parent</span>
@@ -125,7 +125,7 @@
                                     <div class="col-md-6 order-2 order-md-1 wow fadeInLeft" data-wow-delay="100ms">
                                         <h3>Custom <span>Itineraries</span></h3>
                                         <p>Want to go to a special dinner before the dance? Or a glamorous photo spot at the park? We accommodate your custom itinerary, providing the flexibility you need to have the perfect night. Just let us know your stops, and we'll handle the rest.</p>
-                                        <p>Our goal is to provide a seamless, stress-free experience so you can focus on having the time of your life with your friends.</p>
+                                        <p>Our goal is to provide a seamless, stress free experience so you can focus on having the time of your life with your friends.</p>
                                     </div>
                                     <div class="col-md-6 order-1 order-md-2 mb-30 wow fadeInRight" data-wow-delay="200ms">
                                         <img src="{{ asset('assets/img/our-services/prom-night.webp') }}" alt="Prom Night Memories" class="img-fluid rounded-12 shadow-sm">

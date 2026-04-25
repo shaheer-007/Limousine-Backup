@@ -106,9 +106,9 @@
                 <div class="col-12 col-lg-6 wow fadeInRight" data-wow-delay="200ms">
                     <div>
                         <span class="ve-section-tag">Why Choose Us</span>
-                        <h2>The Elite Standard in <span>Luxury Travel</span></h2>
+                        <h2>The Alar Standard in <span>Luxury Travel</span></h2>
                         <p class="ve-lead">We are a team of professional transportation specialists dedicated to providing
-                            more than just a ride—we provide a premium travel experience.</p>
+                            more than just a ride, we provide a premium travel experience.</p>
                         <p>Founded in 2012, our service was built on a single mission: to redefine luxury transportation
                             through punctuality, safety, and unparalleled comfort. Today, we operate a world-class fleet
                             serving thousands of satisfied clients.</p>

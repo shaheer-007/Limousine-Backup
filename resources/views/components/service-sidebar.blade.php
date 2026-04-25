@@ -58,7 +58,7 @@
         <div class="ve-contact-widget-content">
             <i class="fa fa-phone"></i>
             <h4>Need a Ride?</h4>
-            <p>Ready to experience the Elite difference? Call us today for a quick quote.</p>
+            <p>Ready to experience the Alar difference? Call us today for a quick quote.</p>
             <a href="tel:{{ config('contact.phone_tel') }}"
                 class="ve-btn-primary w-100 d-flex align-items-center justify-content-center gap-2">
                 Call Now
