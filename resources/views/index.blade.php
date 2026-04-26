@@ -34,8 +34,8 @@
                         <div class="ve-whyus-img-main bg-img"
                             style="background-image:url({{ asset('assets/img/about-us/excellence-and-discretion-2.webp') }});"></div>
                         <div class="ve-whyus-badge">
-                            <strong>12+</strong>
-                            <span>Years of Financial Excellence</span>
+                            <strong>3+</strong>
+                            <span>Years of Excellence</span>
                         </div>
                     </div>
                 </div>
@@ -266,7 +266,7 @@
             <div class="ve-counter-grid">
                 <div class="ve-counter-item wow fadeInUp" data-wow-delay="100ms">
                     <i class="fa fa-users"></i>
-                    <strong class="counter" data-count="600">0</strong><span>+</span>
+                    <strong class="counter" data-count="2000">0</strong><span>+</span>
                     <p>Happy Passengers</p>
                 </div>
                 <div class="ve-counter-item wow fadeInUp" data-wow-delay="200ms">
@@ -281,7 +281,7 @@
                 </div>
                 <div class="ve-counter-item wow fadeInUp" data-wow-delay="400ms">
                     <i class="fa fa-star"></i>
-                    <strong class="counter" data-count="3">0</strong><span></span>
+                    <strong class="counter" data-count="3">0</strong><span>+</span>
                     <p>Years of Excellence</p>
                 </div>
             </div>
