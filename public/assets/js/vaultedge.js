@@ -29,6 +29,16 @@ if (mobileClose && mobileMenu) {
     });
 }
 
+document.querySelectorAll('.ve-mobile-accordion-toggle').forEach(function(toggle) {
+    toggle.addEventListener('click', function() {
+        var accordion = this.closest('.ve-mobile-accordion');
+        var isOpen = accordion.classList.contains('open');
+
+        accordion.classList.toggle('open', !isOpen);
+        this.setAttribute('aria-expanded', String(!isOpen));
+    });
+});
+
 // Counter animation
 function animateCounters() {
     var counters = document.querySelectorAll('.counter');
