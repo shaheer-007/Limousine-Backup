@@ -6,7 +6,7 @@
         <!-- Left Panel -->
         <div class="ve-hero-left">
             <h1>Nationwide <span class="ve-highlight">Luxury</span><br>At Your Service</h1>
-            <p>Experience the peak of professional ground transportation. From our home base in Kansas City to major destinations across New York, California, and Nevada, Alar Chauffeur Service provides a seamless, world class travel experience. Whether you require executive airport transfers at JFK and LAX, sophisticated state to state travel, or elegant transportation for weddings and corporate events, our dedicated chauffeurs ensure your comfort, safety, and absolute punctuality for every mile of the journey.</p>
+            <p>Experience the peak of professional ground transportation. From our home base in Edison, NJ to major destinations across New York, California, and Nevada, Alar Chauffeur Service provides a seamless, world class travel experience. Whether you require executive airport transfers at JFK and LAX, sophisticated state to state travel, or elegant transportation for weddings and corporate events, our dedicated chauffeurs ensure your comfort, safety, and absolute punctuality for every mile of the journey.</p>
             <div class="ve-hero-btns">
                 <a href="{{ route('book-online') }}" class="ve-btn-primary">Book Online</a>
                 <a href="tel:{{ config('contact.phone_tel') }}" class="ve-btn-ghost">Call Now</a>
