@@ -126,6 +126,26 @@
                     </div>
                 </div>
 
+                <!-- FIFA World Cup 2026 Transportation -->
+                <div class="col-12 col-md-6 col-lg-4 mb-4 wow fadeInUp" data-wow-delay="250ms">
+                    <div class="ve-insight-card">
+                        <div class="ve-insight-img bg-img"
+                            style="background-image:url({{ asset('assets/img/our-services/fifa.webp') }});">
+                        </div>
+                        <div class="ve-insight-body">
+                            <h5>FIFA World Cup 2026 Transportation</h5>
+                            <p>Private chauffeur transportation for matches, fan events, airport arrivals, and group
+                                transfers throughout the 2026 tournament.</p>
+                            <div class="ve-services-btns mt-35" style="display: flex; gap: 10px; flex-wrap: wrap;">
+                                <a href="{{ route('book-online') }}" class="ve-btn-primary"
+                                    style="padding: 10px 18px; font-size: 13px; color: #fff;">Book Online</a>
+                                <a href="{{ route('services.fifa-world-cup-2026-transportation') }}" class="ve-btn-ghost-dark"
+                                    style="padding: 10px 18px; font-size: 13px;">Read More</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
                 <!-- Group Transportation -->
                 <div class="col-12 col-md-6 col-lg-4 mb-4 wow fadeInUp" data-wow-delay="300ms">
                     <div class="ve-insight-card">

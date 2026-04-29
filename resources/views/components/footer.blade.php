@@ -44,6 +44,7 @@
                     <li><a href="{{ route('services.wedding-limo') }}">Wedding Limo</a></li>
                     <li><a href="{{ route('services.prom-limo') }}">Prom Limo</a></li>
                     <li><a href="{{ route('services.sporting-events') }}">Sporting Events</a></li>
+                    <li><a href="{{ route('services.fifa-world-cup-2026-transportation') }}">FIFA World Cup 2026</a></li>
                     <li><a href="{{ route('services.group-transportation') }}">Group Transportation</a></li>
                     <li><a href="{{ route('services.concert-festival') }}">Concerts & Festivals</a></li>
                     <li><a href="{{ route('services.party-bus') }}">Party Buses</a></li>

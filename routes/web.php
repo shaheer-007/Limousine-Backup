@@ -24,6 +24,8 @@ Route::get('/contact-us', function () {
     return view('contact-us');
 })->name('contact-us');
 
+Route::post('/contact-us', [ContactController::class, 'store'])->name('contact.store');
+
 Route::get('/book-online', function () {
     return view('book-online');
 })->name('book-online');
@@ -48,6 +50,10 @@ Route::get('/services/prom-limo', function () {
 Route::get('/services/sporting-events', function () {
     return view('services.sporting-events');
 })->name('services.sporting-events');
+
+Route::get('/services/fifa-world-cup-2026-transportation', function () {
+    return view('services.fifa-world-cup-2026-transportation');
+})->name('services.fifa-world-cup-2026-transportation');
 
 Route::get('/services/group-transportation', function () {
     return view('services.group-transportation');
@@ -91,4 +97,3 @@ Route::get('/service-areas/seattle', function () {
     return view('service-areas.seattle');
 })->name('service-area.seattle');
 
-Route::post('/contact-us', [ContactController::class, 'store'])->name('contact.store');
