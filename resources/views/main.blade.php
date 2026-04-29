@@ -26,6 +26,7 @@
     <link rel="stylesheet" href="{{ asset('assets/css/owl.carousel.min.css') }}">
     <link rel="stylesheet" href="{{ asset('assets/css/animate.css') }}">
     <link rel="stylesheet" href="{{ asset('assets/css/custom-override.css') }}">
+    @stack('head')
 
 </head>
 
@@ -41,6 +42,7 @@
     <script src="{{ asset('assets/js/plugins/plugins.js') }}"></script>
     <script src="{{ asset('assets/js/active.js') }}"></script>
     <script src="{{ asset('assets/js/vaultedge.js') }}"></script>
+    @stack('scripts')
 
     <!-- WhatsApp Floating Button -->
     <a href="{{ config('contact.whatsapp_link') }}" class="ve-whatsapp-float" target="_blank" aria-label="Chat on WhatsApp">

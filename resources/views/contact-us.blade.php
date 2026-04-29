@@ -120,6 +120,16 @@
                             <span class="text-danger" style="font-size: 12px;">{{ $message }}</span>
                             @enderror
                         </div>
+                        @if (config('services.turnstile.site_key'))
+                        <div class="ve-form-group">
+                            <div class="cf-turnstile"
+                                data-sitekey="{{ config('services.turnstile.site_key') }}"
+                                data-theme="light"></div>
+                            @error('cf-turnstile-response')
+                            <span class="text-danger d-block mt-2" style="font-size: 12px;">{{ $message }}</span>
+                            @enderror
+                        </div>
+                        @endif
                         <button type="submit" class="ve-btn-primary">Send Message <i
                                 class="fa fa-paper-plane"></i></button>
                     </form>
@@ -256,3 +266,9 @@
 @include('components.cta')
 
 @endsection
+
+@if (config('services.turnstile.site_key'))
+@push('scripts')
+<script src="https://challenges.cloudflare.com/turnstile/v0/api.js" async defer></script>
+@endpush
+@endif
