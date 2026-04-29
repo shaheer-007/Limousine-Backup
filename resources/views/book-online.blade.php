@@ -1,4 +1,6 @@
 @extends('main')
+@section('meta_title', 'Book Online | Alar Chauffeur Service')
+@section('meta_description', 'Reserve your luxury chauffeur service online with Alar Chauffeur Service for airport transportation, executive travel, weddings, group transportation, and more.')
 @section('content')
     <!-- ===== PAGE HERO ===== -->
     <section class="ve-page-hero" style="background-image:url({{ asset('assets/img/banner/book-online.webp') }});">

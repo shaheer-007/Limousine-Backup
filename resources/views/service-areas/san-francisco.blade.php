@@ -1,4 +1,6 @@
 @extends('main')
+@section('meta_title', 'Luxury Chauffeur Service in San Francisco | Alar Chauffeur Service')
+@section('meta_description', 'Choose Alar Chauffeur Service in San Francisco for premium airport transfers, executive travel, and luxury chauffeur transportation throughout the Bay Area.')
 @section('content')
 
     <!-- ===== PAGE HERO (Sophisticated Text-Only) ===== -->

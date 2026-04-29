@@ -1,4 +1,6 @@
 @extends('main')
+@section('meta_title', 'Luxury Chauffeur Service in Nevada | Alar Chauffeur Service')
+@section('meta_description', 'Book luxury chauffeur service in Nevada with Alar Chauffeur Service for Las Vegas travel, airport transfers, private rides, and event transportation.')
 @section('content')
 
     <!-- ===== PAGE HERO (Sophisticated Text-Only) ===== -->

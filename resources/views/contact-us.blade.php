@@ -1,4 +1,6 @@
 @extends('main')
+@section('meta_title', 'Contact Us | Alar Chauffeur Service')
+@section('meta_description', 'Contact Alar Chauffeur Service for bookings, quotes, airport transfers, and luxury transportation assistance in New Jersey, New York, and surrounding service areas.')
 @section('content')
 
 <!-- ===== PAGE HERO ===== -->

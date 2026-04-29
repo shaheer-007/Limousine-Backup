@@ -1,4 +1,6 @@
 @extends('main')
+@section('meta_title', 'Corporate Transportation | Alar Chauffeur Service')
+@section('meta_description', 'Depend on Alar Chauffeur Service for executive corporate transportation, business meetings, roadshows, airport transfers, and professional chauffeur service.')
 @section('content')
 
     <!-- ===== PAGE HERO ===== -->

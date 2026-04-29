@@ -1,4 +1,6 @@
 @extends('main')
+@section('meta_title', 'Luxury Chauffeur Service in New York | Alar Chauffeur Service')
+@section('meta_description', 'Book luxury chauffeur service in New York with Alar Chauffeur Service for Manhattan business travel, airport transfers, events, and private transportation.')
 @section('content')
 
     <!-- ===== PAGE HERO (Sophisticated Text-Only) ===== -->

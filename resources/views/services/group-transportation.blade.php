@@ -1,4 +1,6 @@
 @extends('main')
+@section('meta_title', 'Group Transportation | Alar Chauffeur Service')
+@section('meta_description', 'Coordinate luxury group transportation with Alar Chauffeur Service for corporate events, family travel, airport groups, weddings, and large party transfers.')
 @section('content')
 
     <!-- ===== PAGE HERO ===== -->

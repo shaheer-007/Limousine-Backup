@@ -1,4 +1,6 @@
 @extends('main')
+@section('meta_title', 'Wedding Limo Service | Alar Chauffeur Service')
+@section('meta_description', 'Arrive in style with wedding limo and luxury chauffeur service from Alar Chauffeur Service for ceremonies, receptions, bridal parties, and guest transportation.')
 @section('content')
 
     <!-- ===== PAGE HERO ===== -->

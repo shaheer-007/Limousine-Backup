@@ -1,4 +1,6 @@
 @extends('main')
+@section('meta_title', 'Prom Limo Service | Alar Chauffeur Service')
+@section('meta_description', 'Book safe and stylish prom limo service with Alar Chauffeur Service for unforgettable arrivals, group rides, and professional chauffeur transportation.')
 @section('content')
 
     <!-- ===== PAGE HERO ===== -->

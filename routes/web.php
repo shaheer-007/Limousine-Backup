@@ -65,6 +65,8 @@ Route::get('/services/cruise-port-transfers', function () {
     return view('services.cruise-port-transfers');
 })->name('services.cruise-port-transfers');
 
+//cities
+
 Route::get('/service-areas/new-jersey', function () {
     return view('service-areas.new-jersey');
 })->name('service-area.new-jersey');

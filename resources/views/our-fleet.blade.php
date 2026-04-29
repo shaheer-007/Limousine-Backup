@@ -1,4 +1,6 @@
 @extends('main')
+@section('meta_title', 'Our Fleet | Alar Chauffeur Service')
+@section('meta_description', 'View the Alar Chauffeur Service fleet of luxury sedans, SUVs, limousines, sprinter vans, and group transportation vehicles for executive and special event travel.')
 @section('content')
 
     <!-- ===== PAGE HERO ===== -->

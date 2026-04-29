@@ -4,20 +4,20 @@
 <head>
     <meta charset="UTF-8">
     <meta name="description"
-        content="{{ config('app.name', 'Premium Limousine') }} - Luxury Chauffeur & Limousine Services">
+        content="@yield('meta_description', config('app.name', 'Premium Limousine') . ' - Luxury Chauffeur & Limousine Services')">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <link rel="canonical" href="{{ url()->current() }}">
 
     <!-- Open Graph Meta Tags -->
-    <meta property="og:title" content="Alar Chauffeur Service | Luxury Transportation">
+    <meta property="og:title" content="@yield('meta_title', 'Alar Chauffeur Service | Luxury Transportation')">
     <meta property="og:description"
-        content="Premium limousine and luxury chauffeur services. Providing elegant, reliable, and safe transportation.">
+        content="@yield('meta_description', 'Premium limousine and luxury chauffeur services. Providing elegant, reliable, and safe transportation.')">
     <meta property="og:image" content="{{ asset('assets/img/logo/logo.png') }}">
     <meta property="og:url" content="{{ url()->current() }}">
     <meta property="og:type" content="website">
 
-    <title>Alar Chauffeur Service | Luxury Transportation</title>
+    <title>@yield('meta_title', 'Alar Chauffeur Service | Luxury Transportation')</title>
     <!-- Favicon -->
     <link rel="icon" type="image/png" href="{{ asset('assets/img/logo/fav-icon.png') }}">
     <link rel="stylesheet" href="{{ asset('assets/css/bootstrap.min.css') }}">

@@ -1,4 +1,6 @@
 @extends('main')
+@section('meta_title', 'Concert and Festival Transportation | Alar Chauffeur Service')
+@section('meta_description', 'Enjoy reliable concert and festival transportation with Alar Chauffeur Service, featuring luxury vehicles, professional chauffeurs, and smooth event travel.')
 @section('content')
 
     <!-- ===== PAGE HERO ===== -->

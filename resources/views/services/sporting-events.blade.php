@@ -1,4 +1,6 @@
 @extends('main')
+@section('meta_title', 'Sporting Events Transportation | Alar Chauffeur Service')
+@section('meta_description', 'Travel to stadiums, arenas, and major games with sporting event transportation from Alar Chauffeur Service, offering luxury vehicles and dependable chauffeurs.')
 @section('content')
 
     <!-- ===== PAGE HERO ===== -->

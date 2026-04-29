@@ -1,4 +1,6 @@
 @extends('main')
+@section('meta_title', 'Luxury Chauffeur Service in Seattle | Alar Chauffeur Service')
+@section('meta_description', 'Travel with confidence using Alar Chauffeur Service in Seattle for airport transfers, executive transportation, city travel, and premium chauffeur service.')
 @section('content')
 
     <!-- ===== PAGE HERO (Sophisticated Text-Only) ===== -->

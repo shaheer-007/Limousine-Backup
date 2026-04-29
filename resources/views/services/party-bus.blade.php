@@ -1,4 +1,6 @@
 @extends('main')
+@section('meta_title', 'Party Bus Rental | Alar Chauffeur Service')
+@section('meta_description', 'Reserve a luxury party bus with Alar Chauffeur Service for birthdays, nightlife, celebrations, bachelor and bachelorette parties, and group outings.')
 @section('content')
 
     <!-- ===== PAGE HERO ===== -->

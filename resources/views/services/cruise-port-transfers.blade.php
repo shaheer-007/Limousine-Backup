@@ -1,4 +1,6 @@
 @extends('main')
+@section('meta_title', 'Cruise Port Transfers | Alar Chauffeur Service')
+@section('meta_description', 'Book cruise port transfers with Alar Chauffeur Service for timely pickups, luggage-friendly vehicles, airport connections, and comfortable luxury transportation.')
 @section('content')
 
     <!-- ===== PAGE HERO ===== -->

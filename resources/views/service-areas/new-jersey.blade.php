@@ -1,4 +1,6 @@
 @extends('main')
+@section('meta_title', 'Luxury Chauffeur Service in New Jersey | Alar Chauffeur Service')
+@section('meta_description', 'Experience premium chauffeur service in New Jersey with Alar Chauffeur Service for airport transfers, executive travel, events, and reliable luxury transportation.')
 @section('content')
 
     <!-- ===== PAGE HERO (Sophisticated Text-Only) ===== -->

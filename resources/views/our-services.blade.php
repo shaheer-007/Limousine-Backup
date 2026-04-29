@@ -1,4 +1,6 @@
 @extends('main')
+@section('meta_title', 'Our Services | Alar Chauffeur Service')
+@section('meta_description', 'Explore luxury transportation services from Alar Chauffeur Service, including airport transfers, corporate transportation, weddings, prom, group travel, cruise transfers, and special events.')
 @section('content')
 
     <!-- ===== PAGE HERO ===== -->

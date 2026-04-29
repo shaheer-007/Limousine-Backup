@@ -1,4 +1,6 @@
 @extends('main')
+@section('meta_title', 'Luxury Chauffeur Service in California | Alar Chauffeur Service')
+@section('meta_description', 'Discover luxury chauffeur service in California with Alar Chauffeur Service for airport transportation, executive travel, special events, and premium private rides.')
 @section('content')
 
     <!-- ===== PAGE HERO (Sophisticated Text-Only) ===== -->
