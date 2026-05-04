@@ -64,7 +64,7 @@
 
         <!-- Google tag (gtag.js) -->
         <!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-ZEJTE12VLF"></script>
+<script data-cfasync="false" async src="https://www.googletagmanager.com/gtag/js?id=G-ZEJTE12VLF"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
