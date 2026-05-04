@@ -31,7 +31,7 @@
                 <div class="col-12 col-md-6 col-lg-4 mb-4 wow fadeInUp" data-wow-delay="100ms">
                     <div class="ve-insight-card">
                         <div class="ve-insight-img bg-img"
-                            style="background-image:url({{ asset('assets/img/our-services/aiport-transfer.webp') }});">
+                            style="background-image:url({{ asset('assets/img/blogs/luxury-chauffeur-service-for-fifa-2026-in-nyc-new-jersey.webp') }});">
                         </div>
                         <div class="ve-insight-body">
                             <h5>Luxury Chauffeur Service for FIFA 2026 in NYC & New Jersey</h5>
