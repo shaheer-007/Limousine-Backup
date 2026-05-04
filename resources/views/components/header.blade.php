@@ -36,6 +36,7 @@
                             <li><a href="{{ route('service-area.seattle') }}">Seattle</a></li>
                         </ul>
                     </li>
+                    <li class="{{ request()->routeIs('blog') ? 'active' : '' }}"><a href="{{ route('blog') }}">Blog</a></li>
                     <li class="{{ request()->routeIs('contact-us') ? 'active' : '' }}"><a href="{{ route('contact-us') }}">Contact us</a></li>
                 </ul>
             </nav>

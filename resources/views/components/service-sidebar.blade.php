@@ -53,6 +53,11 @@
                     <i class="fa fa-ship"></i> Cruise Port Transfers
                 </a>
             </li>
+            <li class="{{ Request::is('services/chauffeured-service') ? 'active' : '' }}">
+                <a href="{{ route('services.chauffeured-service') }}">
+                    <i class="fa fa-car"></i> Chauffeured Service
+                </a>
+            </li>
         </ul>
     </div>
 

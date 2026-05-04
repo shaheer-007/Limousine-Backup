@@ -223,6 +223,25 @@
                         </div>
                     </div>
                 </div>
+
+                <!-- Chauffeur Service -->
+                <div class="col-12 col-md-6 col-lg-4 mb-4 wow fadeInUp" data-wow-delay="300ms">
+                    <div class="ve-insight-card">
+                        <div class="ve-insight-img bg-img"
+                            style="background-image:url({{ asset('assets/img/our-services/chauffeured-service.webp') }});"></div>
+                        <div class="ve-insight-body">
+                            <h5>Chauffeured Service</h5>
+                            <p>Experience safe, private, and luxury transportation with Alar Chauffeur Service for city
+                                travel, airport transfers, and long-distance journeys.</p>
+                            <div class="ve-services-btns mt-35" style="display: flex; gap: 10px; flex-wrap: wrap;">
+                                <a href="{{ route('book-online') }}" class="ve-btn-primary"
+                                    style="padding: 10px 18px; font-size: 13px; color: #fff;">Book Online</a>
+                                <a href="{{ route('services.chauffeured-service') }}" class="ve-btn-ghost-dark"
+                                    style="padding: 10px 18px; font-size: 13px;">Read More</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
     </section>

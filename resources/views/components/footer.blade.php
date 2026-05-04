@@ -49,6 +49,7 @@
                     <li><a href="{{ route('services.concert-festival') }}">Concerts & Festivals</a></li>
                     <li><a href="{{ route('services.party-bus') }}">Party Buses</a></li>
                     <li><a href="{{ route('services.cruise-port-transfers') }}">Cruise Port Transfers</a></li>
+                    <li><a href="{{ route('services.chauffeured-service') }}">Chauffeured Service</a></li>
                 </ul>
             </div>
             <!-- Col 4: Contact -->

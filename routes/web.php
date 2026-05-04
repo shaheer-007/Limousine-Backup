@@ -19,10 +19,13 @@ Route::get('/our-fleet', function () {
     return view('our-fleet');
 })->name('our-fleet');
 
-
 Route::get('/contact-us', function () {
     return view('contact-us');
 })->name('contact-us');
+
+Route::get('/blog', function () {
+    return view('blog');
+})->name('blog');
 
 Route::post('/contact-us', [ContactController::class, 'store'])->name('contact.store');
 
@@ -71,8 +74,11 @@ Route::get('/services/cruise-port-transfers', function () {
     return view('services.cruise-port-transfers');
 })->name('services.cruise-port-transfers');
 
-//cities
+Route::get('/services/chauffeured-service', function () {
+    return view('services.chauffeur-service');
+})->name('services.chauffeured-service');
 
+//cities
 Route::get('/service-areas/new-jersey', function () {
     return view('service-areas.new-jersey');
 })->name('service-area.new-jersey');
@@ -97,3 +103,7 @@ Route::get('/service-areas/seattle', function () {
     return view('service-areas.seattle');
 })->name('service-area.seattle');
 
+//blogs
+Route::get('/blog/luxury-chauffeur-service-for-fifa-2026-in-nyc-new-jersey', function () {
+    return view('blogs.luxury-chauffeur-service-for-fifa-2026-in-nyc-new-jersey');
+})->name('blog.luxury-chauffeur-service-for-fifa-2026-in-nyc-new-jersey');
