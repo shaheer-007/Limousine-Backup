@@ -1,6 +1,6 @@
 @extends('main')
-@section('meta_title', 'Luxury Chauffeur Service in New Jersey | Alar Chauffeur Service')
-@section('meta_description', 'Experience premium chauffeur service in New Jersey with Alar Chauffeur Service for airport transfers, executive travel, events, and reliable luxury transportation.')
+@section('meta_title', 'New Jersey City Chauffeur & Limo Service | Airport Transfers, County Coverage & Luxury Rides')
+@section('meta_description', 'Book Alar Chauffeur Service in New Jersey City for airport transfers, county-wide limo service, and luxury rides to MetLife Stadium. Reliable, private, and professional transportation.')
 @section('content')
 
     <!-- ===== PAGE HERO (Sophisticated Text-Only) ===== -->
@@ -8,8 +8,8 @@
         <div class="container">
             <div class="ve-hero-simple-content">
                 <span class="ve-section-tag">Service Areas</span>
-                <h1>Luxury Transportation in <span>New Jersey</span></h1>
-                <p>Reliable and elegant chauffeur services across the Garden State.</p>
+                <h1>Premium Chauffeur & Limo Service in <span>New Jersey City</span></h1>
+                <p>Experience reliable airport transfers, county-wide coverage, and luxury chauffeur service in New Jersey City with Alar Chauffeur Service.</p>
             </div>
         </div>
     </section>
@@ -22,10 +22,9 @@
                 <div class="col-12 col-lg-8">
                     <div class="ve-service-area-detail">
                         <div class="ve-area-intro mb-50">
-                            <h2 class="mb-20">Premium Chauffeur Service <span>New Jersey</span></h2>
-                            <p class="ve-lead">Providing seamless transportation solutions from the Hudson Waterfront to the Jersey Shore. Our New Jersey service is designed for the discerning traveler who values efficiency and comfort.</p>
-                            
-                            <p>New Jersey is a hub of international commerce and residential excellence. At Alar Chauffeur Service, we bridge the gap between your home and your destination with a fleet that represents the height of modern luxury. Our chauffeurs are intimately familiar with the unique traffic patterns of the state, ensuring you arrive on time, every time.</p>
+                            <h2 class="mb-20">Professional <span>Chauffeur & Limo Service</span> in New Jersey City</h2>
+                            <p class="ve-lead">If you're looking to <a href="{{ route('book-online') }}" style="color: var(--ve-gold);"><b>book chauffeur service in New Jersey City</b></a> that is reliable, professional, and designed for comfort, Alar Chauffeur Service offers the perfect solution. Whether you need a <a href="{{ route('home') }}" style="color: var(--ve-gold);"><b>private car service in New Jersey</b></a>, a luxury limo service near you, or airport transportation with a chauffeur, we provide premium travel experiences across the state.</p>
+                            <p>From busy airports to major counties and event destinations like MetLife Stadium, our goal is to deliver smooth, on-time, and stress-free transportation</p>
                         </div>
 
                         <div class="ve-area-features mb-50">
@@ -63,31 +62,190 @@
                         </div>
 
                         <div class="ve-area-description">
-                            <h3>Commitment to <span>Reliability</span></h3>
-                            <p>We understand that your time is your most valuable asset. Whether you are commuting to Manhattan for a board meeting or require a reliable ride to Teterboro for a private flight, Alar Chauffeur Service is dedicated to providing a stress free environment where you can relax or work in peace.</p>
+                            <h2>Airport Chauffeur & Limo Service in <span>New Jersey</span></h2>
+                            <p>Traveling to or from the airport? Our <a href="{{ route('services.airport-transportation') }}" style="color: var(--ve-gold);"><b>airport limo service in New Jersey</b></a> ensures timely pickups, comfortable rides, and professional service every time.</p>
+
+                            <h3>Airports We <span>Serve</span></h3>
+                            <div class="ve-amenities-list">
+                                <ul>
+                                    <li><i class="fa fa-check"></i> Newark Liberty International Airport (EWR)</li>
+                                    <li><i class="fa fa-check"></i> LaGuardia Airport (LGA)</li>
+                                    <li><i class="fa fa-check"></i> John F. Kennedy International Airport (JFK)</li>
+                                </ul>
+                            </div>
+
+                            <h3>
+                                Our airport chauffeur service near Newark Airport includes:
+                            </h3>
+                            <div class="ve-amenities-list">
+                                <ul>
+                                    <li><i class="fa fa-check"></i> Flight tracking for accurate pickups</li>
+                                    <li><i class="fa fa-check"></i> Meet and greet service</li>
+                                    <li><i class="fa fa-check"></i> Luggage assistance</li>
+                                    <li><i class="fa fa-check"></i> Direct hotel or destination transfers</li>
+                                </ul>
+                            </div>
+
+                            <p>Whether you need a car service from Newark Airport to New Jersey City or a luxury ride from JFK to New Jersey, we ensure a seamless experience.</p>
+
+                            <h2>Serving All <span>Counties in New Jersey</span></h2>
+                            <p>Alar Chauffeur Service proudly offers chauffeur service across all New Jersey counties, making it easy to book reliable transportation anywhere in the state.</p>
+
+                            <h3>Major Counties We Cover</h3>
+
+                            <div class="ve-amenities-list">
+                                <div class="row">
+                                    <div class="col-md-6">
+                                        <ul>
+                                            <li><i class="fa fa-check"></i> Bergen County</li>
+                                            <li><i class="fa fa-check"></i> Hudson County</li>
+                                            <li><i class="fa fa-check"></i> Essex County</li>
+                                        </ul>
+                                    </div>
+                                    <div class="col-md-6">
+                                        <ul>
+                                            <li><i class="fa fa-check"></i> Middlesex County</li>
+                                            <li><i class="fa fa-check"></i> Union County</li>
+                                            <li><i class="fa fa-check"></i> Passaic County</li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <p>
+                                Whether you want to hire a chauffeur in Bergen County, book limo service in Hudson County, or arrange a private car service in Essex County, we are available 24/7.
+                            </p>
+
+                            <h2>Our Chauffeur & Limo <span>Services in New Jersey</span></h2>
+                            <p>
+                                We offer a wide range of services designed to meet different travel needs with luxury and professionalism.
+                            </p>
+
+                            <h3>Airport Transfers</h3>
+                            <p>Reliable airport transportation in New Jersey with on-time pickups and drop-offs.</p>
+
+                            <h3>Corporate Chauffeur Service</h3>
+                            <p>Professional <a href="{{ route('services.corporate-transportation') }}" style="color: var(--ve-gold);"><b>executive car service in New Jersey City</b></a> for business meetings and corporate travel.</p>
+
+                            <h3>Event & Sports Transportation</h3>
+                            <p>Book a chauffeur service to <a href="{{ route('services.fifa-world-cup-2026-transportation') }}" style="color: var(--ve-gold);"><b>MetLife Stadium</b></a> or any major event with ease and comfort.</p>
+
+                            <h3>Wedding & Special Events</h3>
+                            <p>Luxury <a href="{{ route('services.wedding-limo') }}" style="color: var(--ve-gold);"><b></b>wedding limo service in New Jersey</b></a> for a memorable and elegant experience.</p>
+
+                            <h3>Hourly & Point-to-Point Rides</h3>
+                            <p>Flexible hourly chauffeur service near you for city travel and custom plans.</p>
+
+                            <h2>Why Choose <span>Alar Chauffeur Service</span> in New Jersey</h2>
+                            <p>Choosing the right <a href="{{ route('services.chauffeured-service') }}" style="color: var(--ve-gold);"><b>chauffeur service in New Jersey City</b></a> makes all the difference. With Alar Chauffeur Service, you get</p>
+                            <div class="ve-amenities-list">
+                                <ul>
+                                    <li><i class="fa fa-check"></i> Experienced and professional chauffeurs</li>
+                                    <li><i class="fa fa-check"></i> Luxury fleet including sedans, SUVs, and limousines</li>
+                                    <li><i class="fa fa-check"></i> On-time and reliable service</li>
+                                    <li><i class="fa fa-check"></i> 24/7 availability</li>
+                                    <li><i class="fa fa-check"></i> Clean, safe, and comfortable vehicles</li>
+                                </ul>
+                            </div>
+                            <p>Whether you need a luxury car service in New Jersey, a private chauffeur near you, or a reliable limo service for airport transfer, we are committed to delivering excellence.</p>
+
+                            <h2>Book Chauffeur Service in <span>New Jersey City Today</span></h2>
+                            <p>Planning your next trip? It’s easy to book limo service in New Jersey City with <a href="{{ route('home') }}" style="color: var(--ve-gold);"><b>Alar Chauffeur Service</b></a>.</p>
+                            <p>We specialize in:</p>
+                            <div class="ve-amenities-list">
+                                <ul>
+                                    <li><i class="fa fa-check"></i> Airport transfers</li>
+                                    <li><i class="fa fa-check"></i> County-wide transportation</li>
+                                    <li><i class="fa fa-check"></i> Corporate and event travel</li>
+                                    <li><i class="fa fa-check"></i> Luxury and private rides</li>
+                                </ul>
+                            </div>
+                            <p>Reserve your chauffeur service in New Jersey today and enjoy a smooth, comfortable, and stress-free journey.</p>
+
+                            <div class="ve-area-faq mt-50">
+                                <span class="ve-section-tag">FAQs</span>
+                                <h2 class="mb-30">Frequently Asked Questions <span>(FAQs)</span></h2>
+                                
+                                <div id="njFaqAccordion" class="accordion ve-faq-accordion">
+                                    <!-- FAQ 1 -->
+                                    <div class="card ve-faq-card">
+                                        <div class="card-header ve-faq-card-header" id="njFaqHeadingOne">
+                                            <button class="btn ve-faq-toggle btn-block text-left px-4 py-3" type="button" data-toggle="collapse" data-target="#njFaqOne" aria-expanded="true" aria-controls="njFaqOne">
+                                                <h3 class="m-0" style="font-size: 1.2rem; color: inherit; font-weight: 700;">How can I <span>book a professional chauffeur</span> in New Jersey?</h3>
+                                            </button>
+                                        </div>
+                                        <div id="njFaqOne" class="collapse show" aria-labelledby="njFaqHeadingOne" data-parent="#njFaqAccordion">
+                                            <div class="card-body ve-faq-card-body pt-0 px-4 pb-4">
+                                                <p>Booking with Alar Chauffeur Service is simple and can be done online through our reservation system or by calling our customer support. We offer instant confirmations and 24/7 service.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <!-- FAQ 2 -->
+                                    <div class="card ve-faq-card">
+                                        <div class="card-header ve-faq-card-header" id="njFaqHeadingTwo">
+                                            <button class="btn ve-faq-toggle btn-block text-left collapsed px-4 py-3" type="button" data-toggle="collapse" data-target="#njFaqTwo" aria-expanded="false" aria-controls="njFaqTwo">
+                                                <h3 class="m-0" style="font-size: 1.2rem; color: inherit; font-weight: 700;">Which <span>airports in New Jersey</span> do you serve?</h3>
+                                            </button>
+                                        </div>
+                                        <div id="njFaqTwo" class="collapse" aria-labelledby="njFaqHeadingTwo" data-parent="#njFaqAccordion">
+                                            <div class="card-body ve-faq-card-body pt-0 px-4 pb-4">
+                                                <p>We provide premium chauffeur services to all major airports, including Newark Liberty International Airport (EWR), John F. Kennedy International Airport (JFK), and LaGuardia Airport (LGA).</p>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <!-- FAQ 3 -->
+                                    <div class="card ve-faq-card">
+                                        <div class="card-header ve-faq-card-header" id="njFaqHeadingThree">
+                                            <button class="btn ve-faq-toggle btn-block text-left collapsed px-4 py-3" type="button" data-toggle="collapse" data-target="#njFaqThree" aria-expanded="false" aria-controls="njFaqThree">
+                                                <h3 class="m-0" style="font-size: 1.2rem; color: inherit; font-weight: 700;">Is Alar <span>available in all NJ counties</span>?</h3>
+                                            </button>
+                                        </div>
+                                        <div id="njFaqThree" class="collapse" aria-labelledby="njFaqHeadingThree" data-parent="#njFaqAccordion">
+                                            <div class="card-body ve-faq-card-body pt-0 px-4 pb-4">
+                                                <p>Yes, we provide comprehensive coverage across all NJ counties, including Bergen, Hudson, Essex, Middlesex, Union, and Passaic, ensuring reliable transportation wherever you are.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <!-- FAQ 4 -->
+                                    <div class="card ve-faq-card">
+                                        <div class="card-header ve-faq-card-header" id="njFaqHeadingFour">
+                                            <button class="btn ve-faq-toggle btn-block text-left collapsed px-4 py-3" type="button" data-toggle="collapse" data-target="#njFaqFour" aria-expanded="false" aria-controls="njFaqFour">
+                                                <h3 class="m-0" style="font-size: 1.2rem; color: inherit; font-weight: 700;">Do you offer <span>MetLife Stadium</span> services?</h3>
+                                            </button>
+                                        </div>
+                                        <div id="njFaqFour" class="collapse" aria-labelledby="njFaqHeadingFour" data-parent="#njFaqAccordion">
+                                            <div class="card-body ve-faq-card-body pt-0 px-4 pb-4">
+                                                <p>Absolutely! We specialize in event transportation, providing luxury sedans and SUVs for sporting events, concerts, and other major gatherings at MetLife Stadium.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <!-- FAQ 5 -->
+                                    <div class="card ve-faq-card">
+                                        <div class="card-header ve-faq-card-header" id="njFaqHeadingFive">
+                                            <button class="btn ve-faq-toggle btn-block text-left collapsed px-4 py-3" type="button" data-toggle="collapse" data-target="#njFaqFive" aria-expanded="false" aria-controls="njFaqFive">
+                                                <h3 class="m-0" style="font-size: 1.2rem; color: inherit; font-weight: 700;">What <span>types of vehicles</span> are available?</h3>
+                                            </button>
+                                        </div>
+                                        <div id="njFaqFive" class="collapse" aria-labelledby="njFaqHeadingFive" data-parent="#njFaqAccordion">
+                                            <div class="card-body ve-faq-card-body pt-0 px-4 pb-4">
+                                                <p>Our luxury fleet includes late-model sedans, premium SUVs, and elegant limousines, all maintained to the highest standards of cleanliness and safety for your comfort.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            
                         </div>
                     </div>
                 </div>
 
                 <!-- Sidebar -->
                 <div class="col-12 col-lg-4 mt-50 mt-lg-0">
-                    <div class="ve-service-sidebar">
-                        <div class="ve-sidebar-widget">
-                            <h5>Other Service Areas</h5>
-                            <ul class="ve-sidebar-links">
-                                <li class="active"><a href="{{ route('service-area.new-jersey') }}">New Jersey</a></li>
-                                <li><a href="{{ route('service-area.new-york') }}">New York</a></li>
-                                <li><a href="{{ route('service-area.california') }}">California</a></li>
-                                <li><a href="{{ route('service-area.san-francisco') }}">San Francisco</a></li>
-                                <li><a href="{{ route('service-area.nevada') }}">Nevada</a></li>
-                                <li><a href="{{ route('service-area.seattle') }}">Seattle</a></li>
-                            </ul>
-                        <div class="ve-sidebar-cta" style="background: var(--ve-dark); padding: 30px; border-radius: 12px; color: #fff;">
-                            <h4 style="color: #fff; margin-bottom: 15px;">Book Your Ride</h4>
-                            <p style="font-size: 14px; opacity: 0.8; margin-bottom: 20px;">Ready to experience the Alar difference in New Jersey? Book your professional chauffeur online today.</p>
-                            <a href="{{ route('book-online') }}" class="ve-btn-primary" style="width: 100%; text-align: center;">Book Online</a>
-                        </div>
-                    </div>
+                    <x-service-area-sidebar />
                 </div>
             </div>
         </div>

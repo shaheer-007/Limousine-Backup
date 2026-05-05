@@ -4707,3 +4707,50 @@ textarea.ve-form-input {
     70% { transform: scale(1.05); box-shadow: 0 0 0 15px rgba(37, 211, 102, 0); }
     100% { transform: scale(1); box-shadow: 0 0 0 0 rgba(37, 211, 102, 0); }
 }
+
+/* ============================================================
+   SERVICE AREA DETAIL STYLES
+   ============================================================ */
+.ve-service-area-detail h2 {
+    font-size: 32px;
+    font-weight: 800;
+    margin-top: 60px;
+    margin-bottom: 25px;
+    border-left: 5px solid var(--ve-gold);
+    padding-left: 20px;
+    line-height: 1.2;
+    color: var(--ve-dark);
+}
+
+.ve-service-area-detail h3 {
+    font-size: 22px;
+    font-weight: 700;
+    color: #333;
+    margin-top: 40px;
+    margin-bottom: 15px;
+    padding-left: 0;
+}
+
+.ve-area-intro h2 {
+    margin-top: 0 !important;
+}
+
+.ve-service-sidebar {
+    position: sticky;
+    top: 100px;
+    z-index: 10;
+}
+
+@media (max-width: 768px) {
+    .ve-service-sidebar {
+        position: relative;
+        top: 0;
+    }
+    .ve-service-area-detail h2 {
+        font-size: 26px;
+        padding-left: 15px;
+    }
+    .ve-service-area-detail h3 {
+        font-size: 20px;
+    }
+}
