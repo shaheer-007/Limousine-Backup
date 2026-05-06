@@ -31,7 +31,7 @@
                             <li><a href="{{ route('service-area.new-jersey') }}">New Jersey</a></li>
                             <li><a href="{{ route('service-area.new-york') }}">New York</a></li>
                             <li><a href="{{ route('service-area.california') }}">California</a></li>
-                            <li><a href="{{ route('service-area.san-francisco') }}">Luxury Limo Service in San Francisco</a></li>
+                            <li><a href="{{ route('service-area.san-francisco') }}">San Francisco</a></li>
                             <li><a href="{{ route('service-area.nevada') }}">Nevada</a></li>
                             <li><a href="{{ route('service-area.seattle') }}">Seattle</a></li>
                         </ul>
